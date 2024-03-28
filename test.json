@@ -1,0 +1,4806 @@
+{
+    "20240318": [
+        {
+            "id": 1933564,
+            "lessonId": 39892,
+            "lessonNumber": 144000,
+            "lessonCode": "LESSON",
+            "lessonText": "",
+            "periodText": "",
+            "hasPeriodText": false,
+            "periodInfo": "",
+            "periodAttachments": [],
+            "substText": "",
+            "date": 20240318,
+            "startTime": 1150,
+            "endTime": 1235,
+            "elements": [
+                {
+                    "type": 1,
+                    "id": 478,
+                    "orgId": 0,
+                    "missing": false,
+                    "state": "REGULAR"
+                },
+                {
+                    "type": 2,
+                    "id": 75,
+                    "orgId": 0,
+                    "missing": false,
+                    "state": "REGULAR"
+                },
+                {
+                    "type": 3,
+                    "id": 25,
+                    "orgId": 0,
+                    "missing": false,
+                    "state": "REGULAR"
+                },
+                {
+                    "type": 4,
+                    "id": 76,
+                    "orgId": 0,
+                    "missing": false,
+                    "state": "REGULAR"
+                }
+            ],
+            "studentGroup": "ER10_9a_Pei",
+            "hasInfo": false,
+            "code": 0,
+            "cellState": "STANDARD",
+            "priority": 5,
+            "is": {
+                "standard": true,
+                "event": false
+            },
+            "roomCapacity": 0,
+            "studentCount": 0,
+            "classes": [
+                {
+                    "type": 1,
+                    "id": 478,
+                    "orgId": 0,
+                    "missing": false,
+                    "state": "REGULAR",
+                    "element": {
+                        "type": 1,
+                        "id": 478,
+                        "name": "9a",
+                        "longName": "9a",
+                        "displayname": "9a",
+                        "alternatename": "",
+                        "canViewTimetable": true,
+                        "roomCapacity": 0
+                    }
+                }
+            ],
+            "teachers": [
+                {
+                    "type": 2,
+                    "id": 75,
+                    "orgId": 0,
+                    "missing": false,
+                    "state": "REGULAR",
+                    "element": {
+                        "type": 2,
+                        "id": 75,
+                        "name": "Pei",
+                        "canViewTimetable": true,
+                        "externKey": "5a795eca-c4bb-44d4-b0e4-c3f2c0014455",
+                        "roomCapacity": 0
+                    }
+                }
+            ],
+            "subjects": [
+                {
+                    "type": 3,
+                    "id": 25,
+                    "orgId": 0,
+                    "missing": false,
+                    "state": "REGULAR",
+                    "element": {
+                        "type": 3,
+                        "id": 25,
+                        "name": "ER10",
+                        "longName": "Enrichment 10",
+                        "displayname": "ER10",
+                        "alternatename": "",
+                        "backColor": "#ff8000",
+                        "canViewTimetable": false,
+                        "roomCapacity": 0
+                    }
+                }
+            ],
+            "rooms": [
+                {
+                    "type": 4,
+                    "id": 76,
+                    "orgId": 0,
+                    "missing": false,
+                    "state": "REGULAR",
+                    "element": {
+                        "type": 4,
+                        "id": 76,
+                        "name": "115",
+                        "longName": "115",
+                        "displayname": "115",
+                        "alternatename": "",
+                        "canViewTimetable": false,
+                        "roomCapacity": 32
+                    }
+                }
+            ],
+            "students": []
+        },
+        {
+            "id": 1933569,
+            "lessonId": 39892,
+            "lessonNumber": 144000,
+            "lessonCode": "LESSON",
+            "lessonText": "",
+            "periodText": "",
+            "hasPeriodText": false,
+            "periodInfo": "",
+            "periodAttachments": [],
+            "substText": "",
+            "date": 20240318,
+            "startTime": 1235,
+            "endTime": 1320,
+            "elements": [
+                {
+                    "type": 1,
+                    "id": 478,
+                    "orgId": 0,
+                    "missing": false,
+                    "state": "REGULAR"
+                },
+                {
+                    "type": 2,
+                    "id": 75,
+                    "orgId": 0,
+                    "missing": false,
+                    "state": "REGULAR"
+                },
+                {
+                    "type": 3,
+                    "id": 25,
+                    "orgId": 0,
+                    "missing": false,
+                    "state": "REGULAR"
+                },
+                {
+                    "type": 4,
+                    "id": 76,
+                    "orgId": 0,
+                    "missing": false,
+                    "state": "REGULAR"
+                }
+            ],
+            "studentGroup": "ER10_9a_Pei",
+            "hasInfo": false,
+            "code": 0,
+            "cellState": "STANDARD",
+            "priority": 5,
+            "is": {
+                "standard": true,
+                "event": false
+            },
+            "roomCapacity": 0,
+            "studentCount": 0,
+            "classes": [
+                {
+                    "type": 1,
+                    "id": 478,
+                    "orgId": 0,
+                    "missing": false,
+                    "state": "REGULAR",
+                    "element": {
+                        "type": 1,
+                        "id": 478,
+                        "name": "9a",
+                        "longName": "9a",
+                        "displayname": "9a",
+                        "alternatename": "",
+                        "canViewTimetable": true,
+                        "roomCapacity": 0
+                    }
+                }
+            ],
+            "teachers": [
+                {
+                    "type": 2,
+                    "id": 75,
+                    "orgId": 0,
+                    "missing": false,
+                    "state": "REGULAR",
+                    "element": {
+                        "type": 2,
+                        "id": 75,
+                        "name": "Pei",
+                        "canViewTimetable": true,
+                        "externKey": "5a795eca-c4bb-44d4-b0e4-c3f2c0014455",
+                        "roomCapacity": 0
+                    }
+                }
+            ],
+            "subjects": [
+                {
+                    "type": 3,
+                    "id": 25,
+                    "orgId": 0,
+                    "missing": false,
+                    "state": "REGULAR",
+                    "element": {
+                        "type": 3,
+                        "id": 25,
+                        "name": "ER10",
+                        "longName": "Enrichment 10",
+                        "displayname": "ER10",
+                        "alternatename": "",
+                        "backColor": "#ff8000",
+                        "canViewTimetable": false,
+                        "roomCapacity": 0
+                    }
+                }
+            ],
+            "rooms": [
+                {
+                    "type": 4,
+                    "id": 76,
+                    "orgId": 0,
+                    "missing": false,
+                    "state": "REGULAR",
+                    "element": {
+                        "type": 4,
+                        "id": 76,
+                        "name": "115",
+                        "longName": "115",
+                        "displayname": "115",
+                        "alternatename": "",
+                        "canViewTimetable": false,
+                        "roomCapacity": 32
+                    }
+                }
+            ],
+            "students": []
+        },
+        {
+            "id": 1558824,
+            "lessonId": 40715,
+            "lessonNumber": 159000,
+            "lessonCode": "LESSON",
+            "lessonText": "",
+            "periodText": "Bitte Zirkel mitbringen.",
+            "hasPeriodText": true,
+            "periodInfo": "Bitte Zirkel mitbringen.",
+            "periodAttachments": [],
+            "substText": "",
+            "date": 20240318,
+            "startTime": 950,
+            "endTime": 1035,
+            "elements": [
+                {
+                    "type": 1,
+                    "id": 478,
+                    "orgId": 0,
+                    "missing": false,
+                    "state": "REGULAR"
+                },
+                {
+                    "type": 2,
+                    "id": 14,
+                    "orgId": 0,
+                    "missing": false,
+                    "state": "REGULAR"
+                },
+                {
+                    "type": 3,
+                    "id": 66,
+                    "orgId": 0,
+                    "missing": false,
+                    "state": "REGULAR"
+                },
+                {
+                    "type": 4,
+                    "id": 19,
+                    "orgId": 0,
+                    "missing": false,
+                    "state": "REGULAR"
+                }
+            ],
+            "studentGroup": "Ma_9a_Dü",
+            "hasInfo": true,
+            "code": 0,
+            "cellState": "STANDARD",
+            "priority": 5,
+            "is": {
+                "standard": true,
+                "event": false
+            },
+            "roomCapacity": 0,
+            "studentCount": 0,
+            "classes": [
+                {
+                    "type": 1,
+                    "id": 478,
+                    "orgId": 0,
+                    "missing": false,
+                    "state": "REGULAR",
+                    "element": {
+                        "type": 1,
+                        "id": 478,
+                        "name": "9a",
+                        "longName": "9a",
+                        "displayname": "9a",
+                        "alternatename": "",
+                        "canViewTimetable": true,
+                        "roomCapacity": 0
+                    }
+                }
+            ],
+            "teachers": [
+                {
+                    "type": 2,
+                    "id": 14,
+                    "orgId": 0,
+                    "missing": false,
+                    "state": "REGULAR",
+                    "element": {
+                        "type": 2,
+                        "id": 14,
+                        "name": "Dü",
+                        "canViewTimetable": true,
+                        "externKey": "d090a908-8e69-4e9d-8dd6-83c55f50250c",
+                        "roomCapacity": 0
+                    }
+                }
+            ],
+            "subjects": [
+                {
+                    "type": 3,
+                    "id": 66,
+                    "orgId": 0,
+                    "missing": false,
+                    "state": "REGULAR",
+                    "element": {
+                        "type": 3,
+                        "id": 66,
+                        "name": "Ma",
+                        "longName": "Mathematik",
+                        "displayname": "Ma",
+                        "alternatename": "",
+                        "foreColor": "#ffffff",
+                        "backColor": "#16543f",
+                        "canViewTimetable": false,
+                        "roomCapacity": 0
+                    }
+                }
+            ],
+            "rooms": [
+                {
+                    "type": 4,
+                    "id": 19,
+                    "orgId": 0,
+                    "missing": false,
+                    "state": "REGULAR",
+                    "element": {
+                        "type": 4,
+                        "id": 19,
+                        "name": "217",
+                        "longName": "Mathematik",
+                        "displayname": "217",
+                        "alternatename": "",
+                        "canViewTimetable": false,
+                        "roomCapacity": 0
+                    }
+                }
+            ],
+            "students": []
+        },
+        {
+            "id": 1558829,
+            "lessonId": 40715,
+            "lessonNumber": 159000,
+            "lessonCode": "LESSON",
+            "lessonText": "",
+            "periodText": "Bitte Zirkel mitbringen.",
+            "hasPeriodText": true,
+            "periodInfo": "Bitte Zirkel mitbringen.",
+            "periodAttachments": [],
+            "substText": "",
+            "date": 20240318,
+            "startTime": 1035,
+            "endTime": 1120,
+            "elements": [
+                {
+                    "type": 1,
+                    "id": 478,
+                    "orgId": 0,
+                    "missing": false,
+                    "state": "REGULAR"
+                },
+                {
+                    "type": 2,
+                    "id": 14,
+                    "orgId": 0,
+                    "missing": false,
+                    "state": "REGULAR"
+                },
+                {
+                    "type": 3,
+                    "id": 66,
+                    "orgId": 0,
+                    "missing": false,
+                    "state": "REGULAR"
+                },
+                {
+                    "type": 4,
+                    "id": 19,
+                    "orgId": 0,
+                    "missing": false,
+                    "state": "REGULAR"
+                }
+            ],
+            "studentGroup": "Ma_9a_Dü",
+            "hasInfo": true,
+            "code": 0,
+            "cellState": "STANDARD",
+            "priority": 5,
+            "is": {
+                "standard": true,
+                "event": false
+            },
+            "roomCapacity": 0,
+            "studentCount": 0,
+            "classes": [
+                {
+                    "type": 1,
+                    "id": 478,
+                    "orgId": 0,
+                    "missing": false,
+                    "state": "REGULAR",
+                    "element": {
+                        "type": 1,
+                        "id": 478,
+                        "name": "9a",
+                        "longName": "9a",
+                        "displayname": "9a",
+                        "alternatename": "",
+                        "canViewTimetable": true,
+                        "roomCapacity": 0
+                    }
+                }
+            ],
+            "teachers": [
+                {
+                    "type": 2,
+                    "id": 14,
+                    "orgId": 0,
+                    "missing": false,
+                    "state": "REGULAR",
+                    "element": {
+                        "type": 2,
+                        "id": 14,
+                        "name": "Dü",
+                        "canViewTimetable": true,
+                        "externKey": "d090a908-8e69-4e9d-8dd6-83c55f50250c",
+                        "roomCapacity": 0
+                    }
+                }
+            ],
+            "subjects": [
+                {
+                    "type": 3,
+                    "id": 66,
+                    "orgId": 0,
+                    "missing": false,
+                    "state": "REGULAR",
+                    "element": {
+                        "type": 3,
+                        "id": 66,
+                        "name": "Ma",
+                        "longName": "Mathematik",
+                        "displayname": "Ma",
+                        "alternatename": "",
+                        "foreColor": "#ffffff",
+                        "backColor": "#16543f",
+                        "canViewTimetable": false,
+                        "roomCapacity": 0
+                    }
+                }
+            ],
+            "rooms": [
+                {
+                    "type": 4,
+                    "id": 19,
+                    "orgId": 0,
+                    "missing": false,
+                    "state": "REGULAR",
+                    "element": {
+                        "type": 4,
+                        "id": 19,
+                        "name": "217",
+                        "longName": "Mathematik",
+                        "displayname": "217",
+                        "alternatename": "",
+                        "canViewTimetable": false,
+                        "roomCapacity": 0
+                    }
+                }
+            ],
+            "students": []
+        },
+        {
+            "id": 2012958,
+            "lessonId": 41270,
+            "lessonNumber": 159200,
+            "lessonCode": "LESSON",
+            "lessonText": "",
+            "periodText": "",
+            "hasPeriodText": false,
+            "periodInfo": "",
+            "periodAttachments": [],
+            "substText": "",
+            "date": 20240318,
+            "startTime": 1345,
+            "endTime": 1430,
+            "elements": [
+                {
+                    "type": 1,
+                    "id": 478,
+                    "orgId": 0,
+                    "missing": false,
+                    "state": "REGULAR"
+                },
+                {
+                    "type": 2,
+                    "id": 82,
+                    "orgId": 0,
+                    "missing": false,
+                    "state": "REGULAR"
+                },
+                {
+                    "type": 3,
+                    "id": 86,
+                    "orgId": 0,
+                    "missing": false,
+                    "state": "REGULAR"
+                },
+                {
+                    "type": 4,
+                    "id": 43,
+                    "orgId": 0,
+                    "missing": false,
+                    "state": "REGULAR"
+                }
+            ],
+            "studentGroup": "Spo_9a_Rai",
+            "hasInfo": false,
+            "code": 0,
+            "cellState": "STANDARD",
+            "priority": 5,
+            "is": {
+                "standard": true,
+                "event": false
+            },
+            "roomCapacity": 0,
+            "studentCount": 0,
+            "classes": [
+                {
+                    "type": 1,
+                    "id": 478,
+                    "orgId": 0,
+                    "missing": false,
+                    "state": "REGULAR",
+                    "element": {
+                        "type": 1,
+                        "id": 478,
+                        "name": "9a",
+                        "longName": "9a",
+                        "displayname": "9a",
+                        "alternatename": "",
+                        "canViewTimetable": true,
+                        "roomCapacity": 0
+                    }
+                }
+            ],
+            "teachers": [
+                {
+                    "type": 2,
+                    "id": 82,
+                    "orgId": 0,
+                    "missing": false,
+                    "state": "REGULAR",
+                    "element": {
+                        "type": 2,
+                        "id": 82,
+                        "name": "Rai",
+                        "canViewTimetable": true,
+                        "externKey": "fbbfd298-d703-4ccc-b96c-13f24a4d30a0",
+                        "roomCapacity": 0
+                    }
+                }
+            ],
+            "subjects": [
+                {
+                    "type": 3,
+                    "id": 86,
+                    "orgId": 0,
+                    "missing": false,
+                    "state": "REGULAR",
+                    "element": {
+                        "type": 3,
+                        "id": 86,
+                        "name": "Spo",
+                        "longName": "Sport",
+                        "displayname": "Spo",
+                        "alternatename": "",
+                        "backColor": "#ff0080",
+                        "canViewTimetable": false,
+                        "roomCapacity": 0
+                    }
+                }
+            ],
+            "rooms": [
+                {
+                    "type": 4,
+                    "id": 43,
+                    "orgId": 0,
+                    "missing": false,
+                    "state": "REGULAR",
+                    "element": {
+                        "type": 4,
+                        "id": 43,
+                        "name": "Gr. H. 1",
+                        "longName": "Große Halle 1",
+                        "displayname": "Gr. H. 1",
+                        "alternatename": "",
+                        "canViewTimetable": false,
+                        "roomCapacity": 0
+                    }
+                }
+            ],
+            "students": []
+        },
+        {
+            "id": 2012963,
+            "lessonId": 41270,
+            "lessonNumber": 159200,
+            "lessonCode": "LESSON",
+            "lessonText": "",
+            "periodText": "",
+            "hasPeriodText": false,
+            "periodInfo": "",
+            "periodAttachments": [],
+            "substText": "",
+            "date": 20240318,
+            "startTime": 1430,
+            "endTime": 1515,
+            "elements": [
+                {
+                    "type": 1,
+                    "id": 478,
+                    "orgId": 0,
+                    "missing": false,
+                    "state": "REGULAR"
+                },
+                {
+                    "type": 2,
+                    "id": 82,
+                    "orgId": 0,
+                    "missing": false,
+                    "state": "REGULAR"
+                },
+                {
+                    "type": 3,
+                    "id": 86,
+                    "orgId": 0,
+                    "missing": false,
+                    "state": "REGULAR"
+                },
+                {
+                    "type": 4,
+                    "id": 43,
+                    "orgId": 0,
+                    "missing": false,
+                    "state": "REGULAR"
+                }
+            ],
+            "studentGroup": "Spo_9a_Rai",
+            "hasInfo": false,
+            "code": 0,
+            "cellState": "STANDARD",
+            "priority": 5,
+            "is": {
+                "standard": true,
+                "event": false
+            },
+            "roomCapacity": 0,
+            "studentCount": 0,
+            "classes": [
+                {
+                    "type": 1,
+                    "id": 478,
+                    "orgId": 0,
+                    "missing": false,
+                    "state": "REGULAR",
+                    "element": {
+                        "type": 1,
+                        "id": 478,
+                        "name": "9a",
+                        "longName": "9a",
+                        "displayname": "9a",
+                        "alternatename": "",
+                        "canViewTimetable": true,
+                        "roomCapacity": 0
+                    }
+                }
+            ],
+            "teachers": [
+                {
+                    "type": 2,
+                    "id": 82,
+                    "orgId": 0,
+                    "missing": false,
+                    "state": "REGULAR",
+                    "element": {
+                        "type": 2,
+                        "id": 82,
+                        "name": "Rai",
+                        "canViewTimetable": true,
+                        "externKey": "fbbfd298-d703-4ccc-b96c-13f24a4d30a0",
+                        "roomCapacity": 0
+                    }
+                }
+            ],
+            "subjects": [
+                {
+                    "type": 3,
+                    "id": 86,
+                    "orgId": 0,
+                    "missing": false,
+                    "state": "REGULAR",
+                    "element": {
+                        "type": 3,
+                        "id": 86,
+                        "name": "Spo",
+                        "longName": "Sport",
+                        "displayname": "Spo",
+                        "alternatename": "",
+                        "backColor": "#ff0080",
+                        "canViewTimetable": false,
+                        "roomCapacity": 0
+                    }
+                }
+            ],
+            "rooms": [
+                {
+                    "type": 4,
+                    "id": 43,
+                    "orgId": 0,
+                    "missing": false,
+                    "state": "REGULAR",
+                    "element": {
+                        "type": 4,
+                        "id": 43,
+                        "name": "Gr. H. 1",
+                        "longName": "Große Halle 1",
+                        "displayname": "Gr. H. 1",
+                        "alternatename": "",
+                        "canViewTimetable": false,
+                        "roomCapacity": 0
+                    }
+                }
+            ],
+            "students": []
+        },
+        {
+            "id": 1851549,
+            "lessonId": 43894,
+            "lessonNumber": 390200,
+            "lessonCode": "LESSON",
+            "lessonText": "",
+            "periodText": "Aufgaben",
+            "hasPeriodText": true,
+            "periodInfo": "Der Unterricht entfällt.",
+            "periodAttachments": [],
+            "substText": "Aufgaben",
+            "date": 20240318,
+            "startTime": 800,
+            "endTime": 845,
+            "elements": [
+                {
+                    "type": 1,
+                    "id": 478,
+                    "orgId": 0,
+                    "missing": false,
+                    "state": "REGULAR"
+                },
+                {
+                    "type": 1,
+                    "id": 483,
+                    "orgId": 0,
+                    "missing": false,
+                    "state": "REGULAR"
+                },
+                {
+                    "type": 1,
+                    "id": 488,
+                    "orgId": 0,
+                    "missing": false,
+                    "state": "REGULAR"
+                },
+                {
+                    "type": 1,
+                    "id": 493,
+                    "orgId": 0,
+                    "missing": false,
+                    "state": "REGULAR"
+                },
+                {
+                    "type": 2,
+                    "id": 0,
+                    "orgId": 39,
+                    "missing": false,
+                    "state": "ABSENT"
+                },
+                {
+                    "type": 3,
+                    "id": 100,
+                    "orgId": 0,
+                    "missing": false,
+                    "state": "REGULAR"
+                },
+                {
+                    "type": 4,
+                    "id": 52,
+                    "orgId": 41,
+                    "missing": false,
+                    "state": "SUBSTITUTED"
+                }
+            ],
+            "studentGroup": "WIn3_9a9b9c9d_Hor",
+            "hasInfo": true,
+            "code": 0,
+            "cellState": "SUBSTITUTION",
+            "priority": 3,
+            "is": {
+                "substitution": true,
+                "event": false
+            },
+            "roomCapacity": 0,
+            "studentCount": 0,
+            "classes": [
+                {
+                    "type": 1,
+                    "id": 478,
+                    "orgId": 0,
+                    "missing": false,
+                    "state": "REGULAR",
+                    "element": {
+                        "type": 1,
+                        "id": 478,
+                        "name": "9a",
+                        "longName": "9a",
+                        "displayname": "9a",
+                        "alternatename": "",
+                        "canViewTimetable": true,
+                        "roomCapacity": 0
+                    }
+                },
+                {
+                    "type": 1,
+                    "id": 483,
+                    "orgId": 0,
+                    "missing": false,
+                    "state": "REGULAR",
+                    "element": {
+                        "type": 1,
+                        "id": 483,
+                        "name": "9b",
+                        "longName": "9b",
+                        "displayname": "9b",
+                        "alternatename": "",
+                        "canViewTimetable": false,
+                        "roomCapacity": 0
+                    }
+                },
+                {
+                    "type": 1,
+                    "id": 488,
+                    "orgId": 0,
+                    "missing": false,
+                    "state": "REGULAR",
+                    "element": {
+                        "type": 1,
+                        "id": 488,
+                        "name": "9c",
+                        "longName": "9c",
+                        "displayname": "9c",
+                        "alternatename": "",
+                        "canViewTimetable": false,
+                        "roomCapacity": 0
+                    }
+                },
+                {
+                    "type": 1,
+                    "id": 493,
+                    "orgId": 0,
+                    "missing": false,
+                    "state": "REGULAR",
+                    "element": {
+                        "type": 1,
+                        "id": 493,
+                        "name": "9d",
+                        "longName": "9d",
+                        "displayname": "9d",
+                        "alternatename": "",
+                        "canViewTimetable": false,
+                        "roomCapacity": 0
+                    }
+                }
+            ],
+            "teachers": [
+                {
+                    "type": 2,
+                    "id": 0,
+                    "orgId": 39,
+                    "missing": false,
+                    "state": "ABSENT",
+                    "element": {
+                        "type": 2,
+                        "id": 0,
+                        "name": "---",
+                        "canViewTimetable": true,
+                        "externKey": "",
+                        "roomCapacity": 0
+                    }
+                }
+            ],
+            "subjects": [
+                {
+                    "type": 3,
+                    "id": 100,
+                    "orgId": 0,
+                    "missing": false,
+                    "state": "REGULAR",
+                    "element": {
+                        "type": 3,
+                        "id": 100,
+                        "name": "WIn",
+                        "longName": "WIn",
+                        "displayname": "WIn",
+                        "alternatename": "",
+                        "foreColor": "#ffffff",
+                        "backColor": "#808000",
+                        "canViewTimetable": false,
+                        "roomCapacity": 0
+                    }
+                }
+            ],
+            "rooms": [
+                {
+                    "type": 4,
+                    "id": 52,
+                    "orgId": 41,
+                    "missing": false,
+                    "state": "SUBSTITUTED",
+                    "element": {
+                        "type": 4,
+                        "id": 52,
+                        "name": "zu Hause",
+                        "longName": "zu Hause",
+                        "displayname": "zu Hause",
+                        "alternatename": "",
+                        "canViewTimetable": false,
+                        "roomCapacity": 0
+                    }
+                }
+            ],
+            "students": []
+        },
+        {
+            "id": 1851554,
+            "lessonId": 43894,
+            "lessonNumber": 390200,
+            "lessonCode": "LESSON",
+            "lessonText": "",
+            "periodText": "Aufgaben",
+            "hasPeriodText": true,
+            "periodInfo": "Der Unterricht entfällt.",
+            "periodAttachments": [],
+            "substText": "Aufgaben",
+            "date": 20240318,
+            "startTime": 845,
+            "endTime": 930,
+            "elements": [
+                {
+                    "type": 1,
+                    "id": 478,
+                    "orgId": 0,
+                    "missing": false,
+                    "state": "REGULAR"
+                },
+                {
+                    "type": 1,
+                    "id": 483,
+                    "orgId": 0,
+                    "missing": false,
+                    "state": "REGULAR"
+                },
+                {
+                    "type": 1,
+                    "id": 488,
+                    "orgId": 0,
+                    "missing": false,
+                    "state": "REGULAR"
+                },
+                {
+                    "type": 1,
+                    "id": 493,
+                    "orgId": 0,
+                    "missing": false,
+                    "state": "REGULAR"
+                },
+                {
+                    "type": 2,
+                    "id": 0,
+                    "orgId": 39,
+                    "missing": false,
+                    "state": "ABSENT"
+                },
+                {
+                    "type": 3,
+                    "id": 100,
+                    "orgId": 0,
+                    "missing": false,
+                    "state": "REGULAR"
+                },
+                {
+                    "type": 4,
+                    "id": 52,
+                    "orgId": 41,
+                    "missing": false,
+                    "state": "SUBSTITUTED"
+                }
+            ],
+            "studentGroup": "WIn3_9a9b9c9d_Hor",
+            "hasInfo": true,
+            "code": 0,
+            "cellState": "SUBSTITUTION",
+            "priority": 3,
+            "is": {
+                "substitution": true,
+                "event": false
+            },
+            "roomCapacity": 0,
+            "studentCount": 0,
+            "classes": [
+                {
+                    "type": 1,
+                    "id": 478,
+                    "orgId": 0,
+                    "missing": false,
+                    "state": "REGULAR",
+                    "element": {
+                        "type": 1,
+                        "id": 478,
+                        "name": "9a",
+                        "longName": "9a",
+                        "displayname": "9a",
+                        "alternatename": "",
+                        "canViewTimetable": true,
+                        "roomCapacity": 0
+                    }
+                },
+                {
+                    "type": 1,
+                    "id": 483,
+                    "orgId": 0,
+                    "missing": false,
+                    "state": "REGULAR",
+                    "element": {
+                        "type": 1,
+                        "id": 483,
+                        "name": "9b",
+                        "longName": "9b",
+                        "displayname": "9b",
+                        "alternatename": "",
+                        "canViewTimetable": false,
+                        "roomCapacity": 0
+                    }
+                },
+                {
+                    "type": 1,
+                    "id": 488,
+                    "orgId": 0,
+                    "missing": false,
+                    "state": "REGULAR",
+                    "element": {
+                        "type": 1,
+                        "id": 488,
+                        "name": "9c",
+                        "longName": "9c",
+                        "displayname": "9c",
+                        "alternatename": "",
+                        "canViewTimetable": false,
+                        "roomCapacity": 0
+                    }
+                },
+                {
+                    "type": 1,
+                    "id": 493,
+                    "orgId": 0,
+                    "missing": false,
+                    "state": "REGULAR",
+                    "element": {
+                        "type": 1,
+                        "id": 493,
+                        "name": "9d",
+                        "longName": "9d",
+                        "displayname": "9d",
+                        "alternatename": "",
+                        "canViewTimetable": false,
+                        "roomCapacity": 0
+                    }
+                }
+            ],
+            "teachers": [
+                {
+                    "type": 2,
+                    "id": 0,
+                    "orgId": 39,
+                    "missing": false,
+                    "state": "ABSENT",
+                    "element": {
+                        "type": 2,
+                        "id": 0,
+                        "name": "---",
+                        "canViewTimetable": true,
+                        "externKey": "",
+                        "roomCapacity": 0
+                    }
+                }
+            ],
+            "subjects": [
+                {
+                    "type": 3,
+                    "id": 100,
+                    "orgId": 0,
+                    "missing": false,
+                    "state": "REGULAR",
+                    "element": {
+                        "type": 3,
+                        "id": 100,
+                        "name": "WIn",
+                        "longName": "WIn",
+                        "displayname": "WIn",
+                        "alternatename": "",
+                        "foreColor": "#ffffff",
+                        "backColor": "#808000",
+                        "canViewTimetable": false,
+                        "roomCapacity": 0
+                    }
+                }
+            ],
+            "rooms": [
+                {
+                    "type": 4,
+                    "id": 52,
+                    "orgId": 41,
+                    "missing": false,
+                    "state": "SUBSTITUTED",
+                    "element": {
+                        "type": 4,
+                        "id": 52,
+                        "name": "zu Hause",
+                        "longName": "zu Hause",
+                        "displayname": "zu Hause",
+                        "alternatename": "",
+                        "canViewTimetable": false,
+                        "roomCapacity": 0
+                    }
+                }
+            ],
+            "students": []
+        }
+    ],
+    "20240319": [
+        {
+            "id": 1991459,
+            "lessonId": 39792,
+            "lessonNumber": 159300,
+            "lessonCode": "LESSON",
+            "lessonText": "",
+            "periodText": "",
+            "hasPeriodText": false,
+            "periodInfo": "",
+            "periodAttachments": [],
+            "substText": "",
+            "date": 20240319,
+            "startTime": 950,
+            "endTime": 1035,
+            "elements": [
+                {
+                    "type": 1,
+                    "id": 478,
+                    "orgId": 0,
+                    "missing": false,
+                    "state": "REGULAR"
+                },
+                {
+                    "type": 2,
+                    "id": 93,
+                    "orgId": 0,
+                    "missing": false,
+                    "state": "REGULAR"
+                },
+                {
+                    "type": 3,
+                    "id": 13,
+                    "orgId": 0,
+                    "missing": false,
+                    "state": "REGULAR"
+                },
+                {
+                    "type": 4,
+                    "id": 89,
+                    "orgId": 0,
+                    "missing": false,
+                    "state": "REGULAR"
+                }
+            ],
+            "studentGroup": "De_9a_Sm",
+            "hasInfo": false,
+            "code": 0,
+            "cellState": "STANDARD",
+            "priority": 5,
+            "is": {
+                "standard": true,
+                "event": false
+            },
+            "roomCapacity": 0,
+            "studentCount": 0,
+            "classes": [
+                {
+                    "type": 1,
+                    "id": 478,
+                    "orgId": 0,
+                    "missing": false,
+                    "state": "REGULAR",
+                    "element": {
+                        "type": 1,
+                        "id": 478,
+                        "name": "9a",
+                        "longName": "9a",
+                        "displayname": "9a",
+                        "alternatename": "",
+                        "canViewTimetable": true,
+                        "roomCapacity": 0
+                    }
+                }
+            ],
+            "teachers": [
+                {
+                    "type": 2,
+                    "id": 93,
+                    "orgId": 0,
+                    "missing": false,
+                    "state": "REGULAR",
+                    "element": {
+                        "type": 2,
+                        "id": 93,
+                        "name": "Sm",
+                        "canViewTimetable": true,
+                        "externKey": "29c2e7ac-c0a3-4957-802d-56ca008a4557",
+                        "roomCapacity": 0
+                    }
+                }
+            ],
+            "subjects": [
+                {
+                    "type": 3,
+                    "id": 13,
+                    "orgId": 0,
+                    "missing": false,
+                    "state": "REGULAR",
+                    "element": {
+                        "type": 3,
+                        "id": 13,
+                        "name": "De",
+                        "longName": "Deutsch",
+                        "displayname": "De",
+                        "alternatename": "",
+                        "foreColor": "#ffffff",
+                        "backColor": "#751668",
+                        "canViewTimetable": false,
+                        "roomCapacity": 0
+                    }
+                }
+            ],
+            "rooms": [
+                {
+                    "type": 4,
+                    "id": 89,
+                    "orgId": 0,
+                    "missing": false,
+                    "state": "REGULAR",
+                    "element": {
+                        "type": 4,
+                        "id": 89,
+                        "name": "202",
+                        "longName": "Deutsch",
+                        "displayname": "202",
+                        "alternatename": "",
+                        "canViewTimetable": false,
+                        "roomCapacity": 0
+                    }
+                }
+            ],
+            "students": []
+        },
+        {
+            "id": 1991464,
+            "lessonId": 39792,
+            "lessonNumber": 159300,
+            "lessonCode": "LESSON",
+            "lessonText": "",
+            "periodText": "",
+            "hasPeriodText": false,
+            "periodInfo": "",
+            "periodAttachments": [],
+            "substText": "",
+            "date": 20240319,
+            "startTime": 1035,
+            "endTime": 1120,
+            "elements": [
+                {
+                    "type": 1,
+                    "id": 478,
+                    "orgId": 0,
+                    "missing": false,
+                    "state": "REGULAR"
+                },
+                {
+                    "type": 2,
+                    "id": 93,
+                    "orgId": 0,
+                    "missing": false,
+                    "state": "REGULAR"
+                },
+                {
+                    "type": 3,
+                    "id": 13,
+                    "orgId": 0,
+                    "missing": false,
+                    "state": "REGULAR"
+                },
+                {
+                    "type": 4,
+                    "id": 89,
+                    "orgId": 0,
+                    "missing": false,
+                    "state": "REGULAR"
+                }
+            ],
+            "studentGroup": "De_9a_Sm",
+            "hasInfo": false,
+            "code": 0,
+            "cellState": "STANDARD",
+            "priority": 5,
+            "is": {
+                "standard": true,
+                "event": false
+            },
+            "roomCapacity": 0,
+            "studentCount": 0,
+            "classes": [
+                {
+                    "type": 1,
+                    "id": 478,
+                    "orgId": 0,
+                    "missing": false,
+                    "state": "REGULAR",
+                    "element": {
+                        "type": 1,
+                        "id": 478,
+                        "name": "9a",
+                        "longName": "9a",
+                        "displayname": "9a",
+                        "alternatename": "",
+                        "canViewTimetable": true,
+                        "roomCapacity": 0
+                    }
+                }
+            ],
+            "teachers": [
+                {
+                    "type": 2,
+                    "id": 93,
+                    "orgId": 0,
+                    "missing": false,
+                    "state": "REGULAR",
+                    "element": {
+                        "type": 2,
+                        "id": 93,
+                        "name": "Sm",
+                        "canViewTimetable": true,
+                        "externKey": "29c2e7ac-c0a3-4957-802d-56ca008a4557",
+                        "roomCapacity": 0
+                    }
+                }
+            ],
+            "subjects": [
+                {
+                    "type": 3,
+                    "id": 13,
+                    "orgId": 0,
+                    "missing": false,
+                    "state": "REGULAR",
+                    "element": {
+                        "type": 3,
+                        "id": 13,
+                        "name": "De",
+                        "longName": "Deutsch",
+                        "displayname": "De",
+                        "alternatename": "",
+                        "foreColor": "#ffffff",
+                        "backColor": "#751668",
+                        "canViewTimetable": false,
+                        "roomCapacity": 0
+                    }
+                }
+            ],
+            "rooms": [
+                {
+                    "type": 4,
+                    "id": 89,
+                    "orgId": 0,
+                    "missing": false,
+                    "state": "REGULAR",
+                    "element": {
+                        "type": 4,
+                        "id": 89,
+                        "name": "202",
+                        "longName": "Deutsch",
+                        "displayname": "202",
+                        "alternatename": "",
+                        "canViewTimetable": false,
+                        "roomCapacity": 0
+                    }
+                }
+            ],
+            "students": []
+        },
+        {
+            "id": 1995258,
+            "lessonId": 40064,
+            "lessonNumber": 166600,
+            "lessonCode": "LESSON",
+            "lessonText": "",
+            "periodText": "",
+            "hasPeriodText": false,
+            "periodInfo": "",
+            "periodAttachments": [],
+            "substText": "",
+            "date": 20240319,
+            "startTime": 800,
+            "endTime": 845,
+            "elements": [
+                {
+                    "type": 1,
+                    "id": 478,
+                    "orgId": 0,
+                    "missing": false,
+                    "state": "REGULAR"
+                },
+                {
+                    "type": 2,
+                    "id": 4,
+                    "orgId": 12,
+                    "missing": false,
+                    "state": "SUBSTITUTED"
+                },
+                {
+                    "type": 3,
+                    "id": 36,
+                    "orgId": 0,
+                    "missing": false,
+                    "state": "REGULAR"
+                },
+                {
+                    "type": 4,
+                    "id": 27,
+                    "orgId": 0,
+                    "missing": false,
+                    "state": "REGULAR"
+                }
+            ],
+            "studentGroup": "Ek_9a_Ja",
+            "hasInfo": false,
+            "code": 0,
+            "cellState": "SUBSTITUTION",
+            "priority": 3,
+            "is": {
+                "substitution": true,
+                "event": false
+            },
+            "roomCapacity": 0,
+            "studentCount": 0,
+            "classes": [
+                {
+                    "type": 1,
+                    "id": 478,
+                    "orgId": 0,
+                    "missing": false,
+                    "state": "REGULAR",
+                    "element": {
+                        "type": 1,
+                        "id": 478,
+                        "name": "9a",
+                        "longName": "9a",
+                        "displayname": "9a",
+                        "alternatename": "",
+                        "canViewTimetable": true,
+                        "roomCapacity": 0
+                    }
+                }
+            ],
+            "teachers": [
+                {
+                    "type": 2,
+                    "id": 4,
+                    "orgId": 12,
+                    "missing": false,
+                    "state": "SUBSTITUTED",
+                    "element": {
+                        "type": 2,
+                        "id": 4,
+                        "name": "Bl",
+                        "canViewTimetable": true,
+                        "externKey": "c677108d-fe37-4bdb-8d39-a1b03f7877d3",
+                        "roomCapacity": 0
+                    }
+                }
+            ],
+            "subjects": [
+                {
+                    "type": 3,
+                    "id": 36,
+                    "orgId": 0,
+                    "missing": false,
+                    "state": "REGULAR",
+                    "element": {
+                        "type": 3,
+                        "id": 36,
+                        "name": "Ek",
+                        "longName": "Erdkunde",
+                        "displayname": "Ek",
+                        "alternatename": "",
+                        "foreColor": "#ffffff",
+                        "backColor": "#008000",
+                        "canViewTimetable": false,
+                        "roomCapacity": 0
+                    }
+                }
+            ],
+            "rooms": [
+                {
+                    "type": 4,
+                    "id": 27,
+                    "orgId": 0,
+                    "missing": false,
+                    "state": "REGULAR",
+                    "element": {
+                        "type": 4,
+                        "id": 27,
+                        "name": "314",
+                        "longName": "Erdkunde",
+                        "displayname": "314",
+                        "alternatename": "",
+                        "canViewTimetable": false,
+                        "roomCapacity": 32
+                    }
+                }
+            ],
+            "students": []
+        },
+        {
+            "id": 1995263,
+            "lessonId": 40064,
+            "lessonNumber": 166600,
+            "lessonCode": "LESSON",
+            "lessonText": "",
+            "periodText": "",
+            "hasPeriodText": false,
+            "periodInfo": "",
+            "periodAttachments": [],
+            "substText": "",
+            "date": 20240319,
+            "startTime": 845,
+            "endTime": 930,
+            "elements": [
+                {
+                    "type": 1,
+                    "id": 478,
+                    "orgId": 0,
+                    "missing": false,
+                    "state": "REGULAR"
+                },
+                {
+                    "type": 2,
+                    "id": 47,
+                    "orgId": 12,
+                    "missing": false,
+                    "state": "SUBSTITUTED"
+                },
+                {
+                    "type": 3,
+                    "id": 36,
+                    "orgId": 0,
+                    "missing": false,
+                    "state": "REGULAR"
+                },
+                {
+                    "type": 4,
+                    "id": 27,
+                    "orgId": 0,
+                    "missing": false,
+                    "state": "REGULAR"
+                }
+            ],
+            "studentGroup": "Ek_9a_Ja",
+            "hasInfo": false,
+            "code": 0,
+            "cellState": "SUBSTITUTION",
+            "priority": 3,
+            "is": {
+                "substitution": true,
+                "event": false
+            },
+            "roomCapacity": 0,
+            "studentCount": 0,
+            "classes": [
+                {
+                    "type": 1,
+                    "id": 478,
+                    "orgId": 0,
+                    "missing": false,
+                    "state": "REGULAR",
+                    "element": {
+                        "type": 1,
+                        "id": 478,
+                        "name": "9a",
+                        "longName": "9a",
+                        "displayname": "9a",
+                        "alternatename": "",
+                        "canViewTimetable": true,
+                        "roomCapacity": 0
+                    }
+                }
+            ],
+            "teachers": [
+                {
+                    "type": 2,
+                    "id": 47,
+                    "orgId": 12,
+                    "missing": false,
+                    "state": "SUBSTITUTED",
+                    "element": {
+                        "type": 2,
+                        "id": 47,
+                        "name": "Ki",
+                        "canViewTimetable": true,
+                        "externKey": "f89320fe-7d68-44d0-ada1-8bd867e6178d",
+                        "roomCapacity": 0
+                    }
+                }
+            ],
+            "subjects": [
+                {
+                    "type": 3,
+                    "id": 36,
+                    "orgId": 0,
+                    "missing": false,
+                    "state": "REGULAR",
+                    "element": {
+                        "type": 3,
+                        "id": 36,
+                        "name": "Ek",
+                        "longName": "Erdkunde",
+                        "displayname": "Ek",
+                        "alternatename": "",
+                        "foreColor": "#ffffff",
+                        "backColor": "#008000",
+                        "canViewTimetable": false,
+                        "roomCapacity": 0
+                    }
+                }
+            ],
+            "rooms": [
+                {
+                    "type": 4,
+                    "id": 27,
+                    "orgId": 0,
+                    "missing": false,
+                    "state": "REGULAR",
+                    "element": {
+                        "type": 4,
+                        "id": 27,
+                        "name": "314",
+                        "longName": "Erdkunde",
+                        "displayname": "314",
+                        "alternatename": "",
+                        "canViewTimetable": false,
+                        "roomCapacity": 32
+                    }
+                }
+            ],
+            "students": []
+        },
+        {
+            "id": 1581924,
+            "lessonId": 41055,
+            "lessonNumber": 173000,
+            "lessonCode": "LESSON",
+            "lessonText": "",
+            "periodText": "",
+            "hasPeriodText": false,
+            "periodInfo": "",
+            "periodAttachments": [],
+            "substText": "",
+            "date": 20240319,
+            "startTime": 1150,
+            "endTime": 1235,
+            "elements": [
+                {
+                    "type": 1,
+                    "id": 478,
+                    "orgId": 0,
+                    "missing": false,
+                    "state": "REGULAR"
+                },
+                {
+                    "type": 2,
+                    "id": 270,
+                    "orgId": 0,
+                    "missing": false,
+                    "state": "REGULAR"
+                },
+                {
+                    "type": 3,
+                    "id": 77,
+                    "orgId": 0,
+                    "missing": false,
+                    "state": "REGULAR"
+                },
+                {
+                    "type": 4,
+                    "id": 15,
+                    "orgId": 0,
+                    "missing": false,
+                    "state": "REGULAR"
+                }
+            ],
+            "studentGroup": "Ph_9a_Brd",
+            "hasInfo": false,
+            "code": 0,
+            "cellState": "STANDARD",
+            "priority": 5,
+            "is": {
+                "standard": true,
+                "event": false
+            },
+            "roomCapacity": 0,
+            "studentCount": 0,
+            "classes": [
+                {
+                    "type": 1,
+                    "id": 478,
+                    "orgId": 0,
+                    "missing": false,
+                    "state": "REGULAR",
+                    "element": {
+                        "type": 1,
+                        "id": 478,
+                        "name": "9a",
+                        "longName": "9a",
+                        "displayname": "9a",
+                        "alternatename": "",
+                        "canViewTimetable": true,
+                        "roomCapacity": 0
+                    }
+                }
+            ],
+            "teachers": [
+                {
+                    "type": 2,
+                    "id": 270,
+                    "orgId": 0,
+                    "missing": false,
+                    "state": "REGULAR",
+                    "element": {
+                        "type": 2,
+                        "id": 270,
+                        "name": "Brd",
+                        "canViewTimetable": true,
+                        "externKey": "",
+                        "roomCapacity": 0
+                    }
+                }
+            ],
+            "subjects": [
+                {
+                    "type": 3,
+                    "id": 77,
+                    "orgId": 0,
+                    "missing": false,
+                    "state": "REGULAR",
+                    "element": {
+                        "type": 3,
+                        "id": 77,
+                        "name": "Ph",
+                        "longName": "Physik",
+                        "displayname": "Ph",
+                        "alternatename": "",
+                        "backColor": "#ff0000",
+                        "canViewTimetable": false,
+                        "roomCapacity": 0
+                    }
+                }
+            ],
+            "rooms": [
+                {
+                    "type": 4,
+                    "id": 15,
+                    "orgId": 0,
+                    "missing": false,
+                    "state": "REGULAR",
+                    "element": {
+                        "type": 4,
+                        "id": 15,
+                        "name": "211",
+                        "longName": "Physik",
+                        "displayname": "211",
+                        "alternatename": "",
+                        "canViewTimetable": false,
+                        "roomCapacity": 32
+                    }
+                }
+            ],
+            "students": []
+        },
+        {
+            "id": 1581929,
+            "lessonId": 41055,
+            "lessonNumber": 173000,
+            "lessonCode": "LESSON",
+            "lessonText": "",
+            "periodText": "",
+            "hasPeriodText": false,
+            "periodInfo": "",
+            "periodAttachments": [],
+            "substText": "",
+            "date": 20240319,
+            "startTime": 1235,
+            "endTime": 1320,
+            "elements": [
+                {
+                    "type": 1,
+                    "id": 478,
+                    "orgId": 0,
+                    "missing": false,
+                    "state": "REGULAR"
+                },
+                {
+                    "type": 2,
+                    "id": 270,
+                    "orgId": 0,
+                    "missing": false,
+                    "state": "REGULAR"
+                },
+                {
+                    "type": 3,
+                    "id": 77,
+                    "orgId": 0,
+                    "missing": false,
+                    "state": "REGULAR"
+                },
+                {
+                    "type": 4,
+                    "id": 15,
+                    "orgId": 0,
+                    "missing": false,
+                    "state": "REGULAR"
+                }
+            ],
+            "studentGroup": "Ph_9a_Brd",
+            "hasInfo": false,
+            "code": 0,
+            "cellState": "STANDARD",
+            "priority": 5,
+            "is": {
+                "standard": true,
+                "event": false
+            },
+            "roomCapacity": 0,
+            "studentCount": 0,
+            "classes": [
+                {
+                    "type": 1,
+                    "id": 478,
+                    "orgId": 0,
+                    "missing": false,
+                    "state": "REGULAR",
+                    "element": {
+                        "type": 1,
+                        "id": 478,
+                        "name": "9a",
+                        "longName": "9a",
+                        "displayname": "9a",
+                        "alternatename": "",
+                        "canViewTimetable": true,
+                        "roomCapacity": 0
+                    }
+                }
+            ],
+            "teachers": [
+                {
+                    "type": 2,
+                    "id": 270,
+                    "orgId": 0,
+                    "missing": false,
+                    "state": "REGULAR",
+                    "element": {
+                        "type": 2,
+                        "id": 270,
+                        "name": "Brd",
+                        "canViewTimetable": true,
+                        "externKey": "",
+                        "roomCapacity": 0
+                    }
+                }
+            ],
+            "subjects": [
+                {
+                    "type": 3,
+                    "id": 77,
+                    "orgId": 0,
+                    "missing": false,
+                    "state": "REGULAR",
+                    "element": {
+                        "type": 3,
+                        "id": 77,
+                        "name": "Ph",
+                        "longName": "Physik",
+                        "displayname": "Ph",
+                        "alternatename": "",
+                        "backColor": "#ff0000",
+                        "canViewTimetable": false,
+                        "roomCapacity": 0
+                    }
+                }
+            ],
+            "rooms": [
+                {
+                    "type": 4,
+                    "id": 15,
+                    "orgId": 0,
+                    "missing": false,
+                    "state": "REGULAR",
+                    "element": {
+                        "type": 4,
+                        "id": 15,
+                        "name": "211",
+                        "longName": "Physik",
+                        "displayname": "211",
+                        "alternatename": "",
+                        "canViewTimetable": false,
+                        "roomCapacity": 32
+                    }
+                }
+            ],
+            "students": []
+        }
+    ],
+    "20240320": [
+        {
+            "id": 1988356,
+            "lessonId": 39582,
+            "lessonNumber": 188900,
+            "lessonCode": "LESSON",
+            "lessonText": "",
+            "periodText": "Aufgaben",
+            "hasPeriodText": true,
+            "periodInfo": "1. Definiere den Begriff \"Sucht\".\n2. Benenne Stoffe, Gewohnheiten, etc. von denen man süchtig werden kann und ordne sie tabellarisch \"stoffgebundenen Süchten\" (z.B. Kokain) und \"nicht stoffgebundenen Süchten\" (z.B. Spielsucht) zu. (Hilfe auf S. 82)\n3.  Forschende entwickelten im Laufe der Zeit verschiedene Modelle, die zur Entstehung einer Sucht beitragen. Eins dieser Modelle heißt „Suchtdreieck“ und ist im Buch auf S. 83 abgebildet. Übertrage die Abbildung in deinen Hefter. Vervollständige die Abbildung, indem du zu jeder Ecke des Dreiecks die Beispiele aus dem Text einfügst und ggf. eigene Beispiele ergänzt. \n4. Bewerte wie hoch die Suchtgefahr von Kokain ist, indem du für die einzelnen Punkte in dem Suchtdreieck bestimmst, ob die Gefahr zu erkranken hoch oder niedrig ist bei Kokain. Du kannst dies in der Abbildung mit den Begriffen \"hoch\" und \"niedrig\" beschriften. Schreibe dann ein abschließendes Urteil, in dem du schilderst, wie hoch die Suchtgefahr ist und die Argumente aus dem Suchtdreieck einarbeitest.\n",
+            "periodAttachments": [],
+            "substText": "Aufgaben",
+            "date": 20240320,
+            "startTime": 800,
+            "endTime": 845,
+            "elements": [
+                {
+                    "type": 1,
+                    "id": 478,
+                    "orgId": 0,
+                    "missing": false,
+                    "state": "REGULAR"
+                },
+                {
+                    "type": 2,
+                    "id": 0,
+                    "orgId": 29,
+                    "missing": false,
+                    "state": "ABSENT"
+                },
+                {
+                    "type": 3,
+                    "id": 6,
+                    "orgId": 0,
+                    "missing": false,
+                    "state": "REGULAR"
+                },
+                {
+                    "type": 4,
+                    "id": 7,
+                    "orgId": 0,
+                    "missing": false,
+                    "state": "REGULAR"
+                }
+            ],
+            "studentGroup": "Bio_9a_Gks",
+            "hasInfo": true,
+            "code": 0,
+            "cellState": "SUBSTITUTION",
+            "priority": 3,
+            "is": {
+                "substitution": true,
+                "event": false
+            },
+            "roomCapacity": 0,
+            "studentCount": 0,
+            "classes": [
+                {
+                    "type": 1,
+                    "id": 478,
+                    "orgId": 0,
+                    "missing": false,
+                    "state": "REGULAR",
+                    "element": {
+                        "type": 1,
+                        "id": 478,
+                        "name": "9a",
+                        "longName": "9a",
+                        "displayname": "9a",
+                        "alternatename": "",
+                        "canViewTimetable": true,
+                        "roomCapacity": 0
+                    }
+                }
+            ],
+            "teachers": [
+                {
+                    "type": 2,
+                    "id": 0,
+                    "orgId": 29,
+                    "missing": false,
+                    "state": "ABSENT",
+                    "element": {
+                        "type": 2,
+                        "id": 0,
+                        "name": "---",
+                        "canViewTimetable": true,
+                        "externKey": "",
+                        "roomCapacity": 0
+                    }
+                }
+            ],
+            "subjects": [
+                {
+                    "type": 3,
+                    "id": 6,
+                    "orgId": 0,
+                    "missing": false,
+                    "state": "REGULAR",
+                    "element": {
+                        "type": 3,
+                        "id": 6,
+                        "name": "Bio",
+                        "longName": "Biologie",
+                        "displayname": "Bio",
+                        "alternatename": "",
+                        "backColor": "#ec335c",
+                        "canViewTimetable": false,
+                        "roomCapacity": 0
+                    }
+                }
+            ],
+            "rooms": [
+                {
+                    "type": 4,
+                    "id": 7,
+                    "orgId": 0,
+                    "missing": false,
+                    "state": "REGULAR",
+                    "element": {
+                        "type": 4,
+                        "id": 7,
+                        "name": "108",
+                        "longName": "Biologie",
+                        "displayname": "108",
+                        "alternatename": "",
+                        "canViewTimetable": false,
+                        "roomCapacity": 32
+                    }
+                }
+            ],
+            "students": []
+        },
+        {
+            "id": 1988361,
+            "lessonId": 39582,
+            "lessonNumber": 188900,
+            "lessonCode": "LESSON",
+            "lessonText": "",
+            "periodText": "Aufgaben",
+            "hasPeriodText": true,
+            "periodInfo": "",
+            "periodAttachments": [],
+            "substText": "Aufgaben",
+            "date": 20240320,
+            "startTime": 845,
+            "endTime": 930,
+            "elements": [
+                {
+                    "type": 1,
+                    "id": 478,
+                    "orgId": 0,
+                    "missing": false,
+                    "state": "REGULAR"
+                },
+                {
+                    "type": 2,
+                    "id": 0,
+                    "orgId": 29,
+                    "missing": false,
+                    "state": "ABSENT"
+                },
+                {
+                    "type": 3,
+                    "id": 6,
+                    "orgId": 0,
+                    "missing": false,
+                    "state": "REGULAR"
+                },
+                {
+                    "type": 4,
+                    "id": 7,
+                    "orgId": 0,
+                    "missing": false,
+                    "state": "REGULAR"
+                }
+            ],
+            "studentGroup": "Bio_9a_Gks",
+            "hasInfo": true,
+            "code": 0,
+            "cellState": "SUBSTITUTION",
+            "priority": 3,
+            "is": {
+                "substitution": true,
+                "event": false
+            },
+            "roomCapacity": 0,
+            "studentCount": 0,
+            "classes": [
+                {
+                    "type": 1,
+                    "id": 478,
+                    "orgId": 0,
+                    "missing": false,
+                    "state": "REGULAR",
+                    "element": {
+                        "type": 1,
+                        "id": 478,
+                        "name": "9a",
+                        "longName": "9a",
+                        "displayname": "9a",
+                        "alternatename": "",
+                        "canViewTimetable": true,
+                        "roomCapacity": 0
+                    }
+                }
+            ],
+            "teachers": [
+                {
+                    "type": 2,
+                    "id": 0,
+                    "orgId": 29,
+                    "missing": false,
+                    "state": "ABSENT",
+                    "element": {
+                        "type": 2,
+                        "id": 0,
+                        "name": "---",
+                        "canViewTimetable": true,
+                        "externKey": "",
+                        "roomCapacity": 0
+                    }
+                }
+            ],
+            "subjects": [
+                {
+                    "type": 3,
+                    "id": 6,
+                    "orgId": 0,
+                    "missing": false,
+                    "state": "REGULAR",
+                    "element": {
+                        "type": 3,
+                        "id": 6,
+                        "name": "Bio",
+                        "longName": "Biologie",
+                        "displayname": "Bio",
+                        "alternatename": "",
+                        "backColor": "#ec335c",
+                        "canViewTimetable": false,
+                        "roomCapacity": 0
+                    }
+                }
+            ],
+            "rooms": [
+                {
+                    "type": 4,
+                    "id": 7,
+                    "orgId": 0,
+                    "missing": false,
+                    "state": "REGULAR",
+                    "element": {
+                        "type": 4,
+                        "id": 7,
+                        "name": "108",
+                        "longName": "Biologie",
+                        "displayname": "108",
+                        "alternatename": "",
+                        "canViewTimetable": false,
+                        "roomCapacity": 32
+                    }
+                }
+            ],
+            "students": []
+        },
+        {
+            "id": 2022438,
+            "lessonId": 39632,
+            "lessonNumber": 168600,
+            "lessonCode": "LESSON",
+            "lessonText": "",
+            "periodText": "",
+            "hasPeriodText": false,
+            "periodInfo": "",
+            "periodAttachments": [],
+            "substText": "",
+            "date": 20240320,
+            "startTime": 1150,
+            "endTime": 1235,
+            "elements": [
+                {
+                    "type": 1,
+                    "id": 478,
+                    "orgId": 0,
+                    "missing": false,
+                    "state": "REGULAR"
+                },
+                {
+                    "type": 2,
+                    "id": 82,
+                    "orgId": 0,
+                    "missing": false,
+                    "state": "REGULAR"
+                },
+                {
+                    "type": 3,
+                    "id": 8,
+                    "orgId": 0,
+                    "missing": false,
+                    "state": "REGULAR"
+                },
+                {
+                    "type": 4,
+                    "id": 25,
+                    "orgId": 0,
+                    "missing": false,
+                    "state": "REGULAR"
+                }
+            ],
+            "studentGroup": "Ch_9a_Rai",
+            "hasInfo": false,
+            "code": 0,
+            "cellState": "STANDARD",
+            "priority": 5,
+            "is": {
+                "standard": true,
+                "event": false
+            },
+            "roomCapacity": 0,
+            "studentCount": 0,
+            "classes": [
+                {
+                    "type": 1,
+                    "id": 478,
+                    "orgId": 0,
+                    "missing": false,
+                    "state": "REGULAR",
+                    "element": {
+                        "type": 1,
+                        "id": 478,
+                        "name": "9a",
+                        "longName": "9a",
+                        "displayname": "9a",
+                        "alternatename": "",
+                        "canViewTimetable": true,
+                        "roomCapacity": 0
+                    }
+                }
+            ],
+            "teachers": [
+                {
+                    "type": 2,
+                    "id": 82,
+                    "orgId": 0,
+                    "missing": false,
+                    "state": "REGULAR",
+                    "element": {
+                        "type": 2,
+                        "id": 82,
+                        "name": "Rai",
+                        "canViewTimetable": true,
+                        "externKey": "fbbfd298-d703-4ccc-b96c-13f24a4d30a0",
+                        "roomCapacity": 0
+                    }
+                }
+            ],
+            "subjects": [
+                {
+                    "type": 3,
+                    "id": 8,
+                    "orgId": 0,
+                    "missing": false,
+                    "state": "REGULAR",
+                    "element": {
+                        "type": 3,
+                        "id": 8,
+                        "name": "Ch",
+                        "longName": "Chemie",
+                        "displayname": "Ch",
+                        "alternatename": "",
+                        "backColor": "#e15e72",
+                        "canViewTimetable": false,
+                        "roomCapacity": 0
+                    }
+                }
+            ],
+            "rooms": [
+                {
+                    "type": 4,
+                    "id": 25,
+                    "orgId": 0,
+                    "missing": false,
+                    "state": "REGULAR",
+                    "element": {
+                        "type": 4,
+                        "id": 25,
+                        "name": "311",
+                        "longName": "Chemie",
+                        "displayname": "311",
+                        "alternatename": "",
+                        "canViewTimetable": false,
+                        "roomCapacity": 32
+                    }
+                }
+            ],
+            "students": []
+        },
+        {
+            "id": 2022443,
+            "lessonId": 39632,
+            "lessonNumber": 168600,
+            "lessonCode": "LESSON",
+            "lessonText": "",
+            "periodText": "",
+            "hasPeriodText": false,
+            "periodInfo": "",
+            "periodAttachments": [],
+            "substText": "",
+            "date": 20240320,
+            "startTime": 1235,
+            "endTime": 1320,
+            "elements": [
+                {
+                    "type": 1,
+                    "id": 478,
+                    "orgId": 0,
+                    "missing": false,
+                    "state": "REGULAR"
+                },
+                {
+                    "type": 2,
+                    "id": 82,
+                    "orgId": 0,
+                    "missing": false,
+                    "state": "REGULAR"
+                },
+                {
+                    "type": 3,
+                    "id": 8,
+                    "orgId": 0,
+                    "missing": false,
+                    "state": "REGULAR"
+                },
+                {
+                    "type": 4,
+                    "id": 25,
+                    "orgId": 0,
+                    "missing": false,
+                    "state": "REGULAR"
+                }
+            ],
+            "studentGroup": "Ch_9a_Rai",
+            "hasInfo": false,
+            "code": 0,
+            "cellState": "STANDARD",
+            "priority": 5,
+            "is": {
+                "standard": true,
+                "event": false
+            },
+            "roomCapacity": 0,
+            "studentCount": 0,
+            "classes": [
+                {
+                    "type": 1,
+                    "id": 478,
+                    "orgId": 0,
+                    "missing": false,
+                    "state": "REGULAR",
+                    "element": {
+                        "type": 1,
+                        "id": 478,
+                        "name": "9a",
+                        "longName": "9a",
+                        "displayname": "9a",
+                        "alternatename": "",
+                        "canViewTimetable": true,
+                        "roomCapacity": 0
+                    }
+                }
+            ],
+            "teachers": [
+                {
+                    "type": 2,
+                    "id": 82,
+                    "orgId": 0,
+                    "missing": false,
+                    "state": "REGULAR",
+                    "element": {
+                        "type": 2,
+                        "id": 82,
+                        "name": "Rai",
+                        "canViewTimetable": true,
+                        "externKey": "fbbfd298-d703-4ccc-b96c-13f24a4d30a0",
+                        "roomCapacity": 0
+                    }
+                }
+            ],
+            "subjects": [
+                {
+                    "type": 3,
+                    "id": 8,
+                    "orgId": 0,
+                    "missing": false,
+                    "state": "REGULAR",
+                    "element": {
+                        "type": 3,
+                        "id": 8,
+                        "name": "Ch",
+                        "longName": "Chemie",
+                        "displayname": "Ch",
+                        "alternatename": "",
+                        "backColor": "#e15e72",
+                        "canViewTimetable": false,
+                        "roomCapacity": 0
+                    }
+                }
+            ],
+            "rooms": [
+                {
+                    "type": 4,
+                    "id": 25,
+                    "orgId": 0,
+                    "missing": false,
+                    "state": "REGULAR",
+                    "element": {
+                        "type": 4,
+                        "id": 25,
+                        "name": "311",
+                        "longName": "Chemie",
+                        "displayname": "311",
+                        "alternatename": "",
+                        "canViewTimetable": false,
+                        "roomCapacity": 32
+                    }
+                }
+            ],
+            "students": []
+        },
+        {
+            "id": 2022756,
+            "lessonId": 39792,
+            "lessonNumber": 159300,
+            "lessonCode": "LESSON",
+            "lessonText": "",
+            "periodText": "",
+            "hasPeriodText": false,
+            "periodInfo": "",
+            "periodAttachments": [],
+            "substText": "",
+            "date": 20240320,
+            "startTime": 950,
+            "endTime": 1035,
+            "elements": [
+                {
+                    "type": 1,
+                    "id": 478,
+                    "orgId": 0,
+                    "missing": false,
+                    "state": "REGULAR"
+                },
+                {
+                    "type": 2,
+                    "id": 93,
+                    "orgId": 0,
+                    "missing": false,
+                    "state": "REGULAR"
+                },
+                {
+                    "type": 3,
+                    "id": 13,
+                    "orgId": 0,
+                    "missing": false,
+                    "state": "REGULAR"
+                },
+                {
+                    "type": 4,
+                    "id": 23,
+                    "orgId": 0,
+                    "missing": false,
+                    "state": "REGULAR"
+                }
+            ],
+            "studentGroup": "De_9a_Sm",
+            "hasInfo": false,
+            "code": 0,
+            "cellState": "STANDARD",
+            "priority": 5,
+            "is": {
+                "standard": true,
+                "event": false
+            },
+            "roomCapacity": 0,
+            "studentCount": 0,
+            "classes": [
+                {
+                    "type": 1,
+                    "id": 478,
+                    "orgId": 0,
+                    "missing": false,
+                    "state": "REGULAR",
+                    "element": {
+                        "type": 1,
+                        "id": 478,
+                        "name": "9a",
+                        "longName": "9a",
+                        "displayname": "9a",
+                        "alternatename": "",
+                        "canViewTimetable": true,
+                        "roomCapacity": 0
+                    }
+                }
+            ],
+            "teachers": [
+                {
+                    "type": 2,
+                    "id": 93,
+                    "orgId": 0,
+                    "missing": false,
+                    "state": "REGULAR",
+                    "element": {
+                        "type": 2,
+                        "id": 93,
+                        "name": "Sm",
+                        "canViewTimetable": true,
+                        "externKey": "29c2e7ac-c0a3-4957-802d-56ca008a4557",
+                        "roomCapacity": 0
+                    }
+                }
+            ],
+            "subjects": [
+                {
+                    "type": 3,
+                    "id": 13,
+                    "orgId": 0,
+                    "missing": false,
+                    "state": "REGULAR",
+                    "element": {
+                        "type": 3,
+                        "id": 13,
+                        "name": "De",
+                        "longName": "Deutsch",
+                        "displayname": "De",
+                        "alternatename": "",
+                        "foreColor": "#ffffff",
+                        "backColor": "#751668",
+                        "canViewTimetable": false,
+                        "roomCapacity": 0
+                    }
+                }
+            ],
+            "rooms": [
+                {
+                    "type": 4,
+                    "id": 23,
+                    "orgId": 0,
+                    "missing": false,
+                    "state": "REGULAR",
+                    "element": {
+                        "type": 4,
+                        "id": 23,
+                        "name": "307",
+                        "longName": "GE/Eth/PB; Chemie",
+                        "displayname": "307",
+                        "alternatename": "",
+                        "canViewTimetable": false,
+                        "roomCapacity": 32
+                    }
+                }
+            ],
+            "students": []
+        },
+        {
+            "id": 2022761,
+            "lessonId": 39792,
+            "lessonNumber": 159300,
+            "lessonCode": "LESSON",
+            "lessonText": "",
+            "periodText": "",
+            "hasPeriodText": false,
+            "periodInfo": "",
+            "periodAttachments": [],
+            "substText": "",
+            "date": 20240320,
+            "startTime": 1035,
+            "endTime": 1120,
+            "elements": [
+                {
+                    "type": 1,
+                    "id": 478,
+                    "orgId": 0,
+                    "missing": false,
+                    "state": "REGULAR"
+                },
+                {
+                    "type": 2,
+                    "id": 93,
+                    "orgId": 0,
+                    "missing": false,
+                    "state": "REGULAR"
+                },
+                {
+                    "type": 3,
+                    "id": 13,
+                    "orgId": 0,
+                    "missing": false,
+                    "state": "REGULAR"
+                },
+                {
+                    "type": 4,
+                    "id": 23,
+                    "orgId": 0,
+                    "missing": false,
+                    "state": "REGULAR"
+                }
+            ],
+            "studentGroup": "De_9a_Sm",
+            "hasInfo": false,
+            "code": 0,
+            "cellState": "STANDARD",
+            "priority": 5,
+            "is": {
+                "standard": true,
+                "event": false
+            },
+            "roomCapacity": 0,
+            "studentCount": 0,
+            "classes": [
+                {
+                    "type": 1,
+                    "id": 478,
+                    "orgId": 0,
+                    "missing": false,
+                    "state": "REGULAR",
+                    "element": {
+                        "type": 1,
+                        "id": 478,
+                        "name": "9a",
+                        "longName": "9a",
+                        "displayname": "9a",
+                        "alternatename": "",
+                        "canViewTimetable": true,
+                        "roomCapacity": 0
+                    }
+                }
+            ],
+            "teachers": [
+                {
+                    "type": 2,
+                    "id": 93,
+                    "orgId": 0,
+                    "missing": false,
+                    "state": "REGULAR",
+                    "element": {
+                        "type": 2,
+                        "id": 93,
+                        "name": "Sm",
+                        "canViewTimetable": true,
+                        "externKey": "29c2e7ac-c0a3-4957-802d-56ca008a4557",
+                        "roomCapacity": 0
+                    }
+                }
+            ],
+            "subjects": [
+                {
+                    "type": 3,
+                    "id": 13,
+                    "orgId": 0,
+                    "missing": false,
+                    "state": "REGULAR",
+                    "element": {
+                        "type": 3,
+                        "id": 13,
+                        "name": "De",
+                        "longName": "Deutsch",
+                        "displayname": "De",
+                        "alternatename": "",
+                        "foreColor": "#ffffff",
+                        "backColor": "#751668",
+                        "canViewTimetable": false,
+                        "roomCapacity": 0
+                    }
+                }
+            ],
+            "rooms": [
+                {
+                    "type": 4,
+                    "id": 23,
+                    "orgId": 0,
+                    "missing": false,
+                    "state": "REGULAR",
+                    "element": {
+                        "type": 4,
+                        "id": 23,
+                        "name": "307",
+                        "longName": "GE/Eth/PB; Chemie",
+                        "displayname": "307",
+                        "alternatename": "",
+                        "canViewTimetable": false,
+                        "roomCapacity": 32
+                    }
+                }
+            ],
+            "students": []
+        }
+    ],
+    "20240321": [
+        {
+            "id": 1994369,
+            "lessonId": 39972,
+            "lessonNumber": 159400,
+            "lessonCode": "LESSON",
+            "lessonText": "",
+            "periodText": "",
+            "hasPeriodText": false,
+            "periodInfo": "",
+            "periodAttachments": [],
+            "substText": "",
+            "date": 20240321,
+            "startTime": 1150,
+            "endTime": 1235,
+            "elements": [
+                {
+                    "type": 1,
+                    "id": 478,
+                    "orgId": 0,
+                    "missing": false,
+                    "state": "REGULAR"
+                },
+                {
+                    "type": 2,
+                    "id": 475,
+                    "orgId": 0,
+                    "missing": false,
+                    "state": "REGULAR"
+                },
+                {
+                    "type": 3,
+                    "id": 35,
+                    "orgId": 0,
+                    "missing": false,
+                    "state": "REGULAR"
+                },
+                {
+                    "type": 4,
+                    "id": 35,
+                    "orgId": 31,
+                    "missing": false,
+                    "state": "SUBSTITUTED"
+                }
+            ],
+            "studentGroup": "ER9_9a_Sm",
+            "hasInfo": false,
+            "code": 0,
+            "cellState": "ROOMSUBSTITUTION",
+            "priority": 3,
+            "is": {
+                "roomSubstitution": true,
+                "event": false
+            },
+            "roomCapacity": 0,
+            "studentCount": 0,
+            "classes": [
+                {
+                    "type": 1,
+                    "id": 478,
+                    "orgId": 0,
+                    "missing": false,
+                    "state": "REGULAR",
+                    "element": {
+                        "type": 1,
+                        "id": 478,
+                        "name": "9a",
+                        "longName": "9a",
+                        "displayname": "9a",
+                        "alternatename": "",
+                        "canViewTimetable": true,
+                        "roomCapacity": 0
+                    }
+                }
+            ],
+            "teachers": [
+                {
+                    "type": 2,
+                    "id": 475,
+                    "orgId": 0,
+                    "missing": false,
+                    "state": "REGULAR",
+                    "element": {
+                        "type": 2,
+                        "id": 475,
+                        "name": "See",
+                        "canViewTimetable": true,
+                        "externKey": "",
+                        "roomCapacity": 0
+                    }
+                }
+            ],
+            "subjects": [
+                {
+                    "type": 3,
+                    "id": 35,
+                    "orgId": 0,
+                    "missing": false,
+                    "state": "REGULAR",
+                    "element": {
+                        "type": 3,
+                        "id": 35,
+                        "name": "ER9",
+                        "longName": "Enrichment 9",
+                        "displayname": "ER9",
+                        "alternatename": "",
+                        "backColor": "#ff8000",
+                        "canViewTimetable": false,
+                        "roomCapacity": 0
+                    }
+                }
+            ],
+            "rooms": [
+                {
+                    "type": 4,
+                    "id": 35,
+                    "orgId": 31,
+                    "missing": false,
+                    "state": "SUBSTITUTED",
+                    "element": {
+                        "type": 4,
+                        "id": 35,
+                        "name": "414",
+                        "longName": "Englisch/ Französisch",
+                        "displayname": "414",
+                        "alternatename": "",
+                        "canViewTimetable": false,
+                        "roomCapacity": 32
+                    }
+                }
+            ],
+            "students": []
+        },
+        {
+            "id": 1994374,
+            "lessonId": 39972,
+            "lessonNumber": 159400,
+            "lessonCode": "LESSON",
+            "lessonText": "",
+            "periodText": "",
+            "hasPeriodText": false,
+            "periodInfo": "",
+            "periodAttachments": [],
+            "substText": "",
+            "date": 20240321,
+            "startTime": 1235,
+            "endTime": 1320,
+            "elements": [
+                {
+                    "type": 1,
+                    "id": 478,
+                    "orgId": 0,
+                    "missing": false,
+                    "state": "REGULAR"
+                },
+                {
+                    "type": 2,
+                    "id": 475,
+                    "orgId": 0,
+                    "missing": false,
+                    "state": "REGULAR"
+                },
+                {
+                    "type": 3,
+                    "id": 35,
+                    "orgId": 0,
+                    "missing": false,
+                    "state": "REGULAR"
+                },
+                {
+                    "type": 4,
+                    "id": 35,
+                    "orgId": 31,
+                    "missing": false,
+                    "state": "SUBSTITUTED"
+                }
+            ],
+            "studentGroup": "ER9_9a_Sm",
+            "hasInfo": false,
+            "code": 0,
+            "cellState": "ROOMSUBSTITUTION",
+            "priority": 3,
+            "is": {
+                "roomSubstitution": true,
+                "event": false
+            },
+            "roomCapacity": 0,
+            "studentCount": 0,
+            "classes": [
+                {
+                    "type": 1,
+                    "id": 478,
+                    "orgId": 0,
+                    "missing": false,
+                    "state": "REGULAR",
+                    "element": {
+                        "type": 1,
+                        "id": 478,
+                        "name": "9a",
+                        "longName": "9a",
+                        "displayname": "9a",
+                        "alternatename": "",
+                        "canViewTimetable": true,
+                        "roomCapacity": 0
+                    }
+                }
+            ],
+            "teachers": [
+                {
+                    "type": 2,
+                    "id": 475,
+                    "orgId": 0,
+                    "missing": false,
+                    "state": "REGULAR",
+                    "element": {
+                        "type": 2,
+                        "id": 475,
+                        "name": "See",
+                        "canViewTimetable": true,
+                        "externKey": "",
+                        "roomCapacity": 0
+                    }
+                }
+            ],
+            "subjects": [
+                {
+                    "type": 3,
+                    "id": 35,
+                    "orgId": 0,
+                    "missing": false,
+                    "state": "REGULAR",
+                    "element": {
+                        "type": 3,
+                        "id": 35,
+                        "name": "ER9",
+                        "longName": "Enrichment 9",
+                        "displayname": "ER9",
+                        "alternatename": "",
+                        "backColor": "#ff8000",
+                        "canViewTimetable": false,
+                        "roomCapacity": 0
+                    }
+                }
+            ],
+            "rooms": [
+                {
+                    "type": 4,
+                    "id": 35,
+                    "orgId": 31,
+                    "missing": false,
+                    "state": "SUBSTITUTED",
+                    "element": {
+                        "type": 4,
+                        "id": 35,
+                        "name": "414",
+                        "longName": "Englisch/ Französisch",
+                        "displayname": "414",
+                        "alternatename": "",
+                        "canViewTimetable": false,
+                        "roomCapacity": 32
+                    }
+                }
+            ],
+            "students": []
+        },
+        {
+            "id": 2023513,
+            "lessonId": 40184,
+            "lessonNumber": 312600,
+            "lessonCode": "LESSON",
+            "lessonText": "",
+            "periodText": "",
+            "hasPeriodText": false,
+            "periodInfo": "",
+            "periodAttachments": [],
+            "substText": "",
+            "date": 20240321,
+            "startTime": 950,
+            "endTime": 1035,
+            "elements": [
+                {
+                    "type": 1,
+                    "id": 478,
+                    "orgId": 0,
+                    "missing": false,
+                    "state": "REGULAR"
+                },
+                {
+                    "type": 2,
+                    "id": 52,
+                    "orgId": 0,
+                    "missing": false,
+                    "state": "REGULAR"
+                },
+                {
+                    "type": 3,
+                    "id": 40,
+                    "orgId": 0,
+                    "missing": false,
+                    "state": "REGULAR"
+                },
+                {
+                    "type": 4,
+                    "id": 21,
+                    "orgId": 0,
+                    "missing": false,
+                    "state": "REGULAR"
+                }
+            ],
+            "studentGroup": "Ena_9a_Pei",
+            "hasInfo": false,
+            "code": 0,
+            "cellState": "STANDARD",
+            "priority": 5,
+            "is": {
+                "standard": true,
+                "event": false
+            },
+            "roomCapacity": 0,
+            "studentCount": 0,
+            "classes": [
+                {
+                    "type": 1,
+                    "id": 478,
+                    "orgId": 0,
+                    "missing": false,
+                    "state": "REGULAR",
+                    "element": {
+                        "type": 1,
+                        "id": 478,
+                        "name": "9a",
+                        "longName": "9a",
+                        "displayname": "9a",
+                        "alternatename": "",
+                        "canViewTimetable": true,
+                        "roomCapacity": 0
+                    }
+                }
+            ],
+            "teachers": [
+                {
+                    "type": 2,
+                    "id": 52,
+                    "orgId": 0,
+                    "missing": false,
+                    "state": "REGULAR",
+                    "element": {
+                        "type": 2,
+                        "id": 52,
+                        "name": "Krc",
+                        "canViewTimetable": true,
+                        "externKey": "96551c75-c7da-46ca-a49f-2e59f66e3419",
+                        "roomCapacity": 0
+                    }
+                }
+            ],
+            "subjects": [
+                {
+                    "type": 3,
+                    "id": 40,
+                    "orgId": 0,
+                    "missing": false,
+                    "state": "REGULAR",
+                    "element": {
+                        "type": 3,
+                        "id": 40,
+                        "name": "Ena",
+                        "longName": "Englisch A",
+                        "displayname": "Ena",
+                        "alternatename": "",
+                        "backColor": "#00ffff",
+                        "canViewTimetable": false,
+                        "roomCapacity": 0
+                    }
+                }
+            ],
+            "rooms": [
+                {
+                    "type": 4,
+                    "id": 21,
+                    "orgId": 0,
+                    "missing": false,
+                    "state": "REGULAR",
+                    "element": {
+                        "type": 4,
+                        "id": 21,
+                        "name": "304",
+                        "longName": "GE/Eth/PB",
+                        "displayname": "304",
+                        "alternatename": "",
+                        "canViewTimetable": false,
+                        "roomCapacity": 32
+                    }
+                }
+            ],
+            "students": []
+        },
+        {
+            "id": 2023518,
+            "lessonId": 40184,
+            "lessonNumber": 312600,
+            "lessonCode": "LESSON",
+            "lessonText": "",
+            "periodText": "",
+            "hasPeriodText": false,
+            "periodInfo": "",
+            "periodAttachments": [],
+            "substText": "",
+            "date": 20240321,
+            "startTime": 1035,
+            "endTime": 1120,
+            "elements": [
+                {
+                    "type": 1,
+                    "id": 478,
+                    "orgId": 0,
+                    "missing": false,
+                    "state": "REGULAR"
+                },
+                {
+                    "type": 2,
+                    "id": 52,
+                    "orgId": 0,
+                    "missing": false,
+                    "state": "REGULAR"
+                },
+                {
+                    "type": 3,
+                    "id": 40,
+                    "orgId": 0,
+                    "missing": false,
+                    "state": "REGULAR"
+                },
+                {
+                    "type": 4,
+                    "id": 21,
+                    "orgId": 0,
+                    "missing": false,
+                    "state": "REGULAR"
+                }
+            ],
+            "studentGroup": "Ena_9a_Pei",
+            "hasInfo": false,
+            "code": 0,
+            "cellState": "STANDARD",
+            "priority": 5,
+            "is": {
+                "standard": true,
+                "event": false
+            },
+            "roomCapacity": 0,
+            "studentCount": 0,
+            "classes": [
+                {
+                    "type": 1,
+                    "id": 478,
+                    "orgId": 0,
+                    "missing": false,
+                    "state": "REGULAR",
+                    "element": {
+                        "type": 1,
+                        "id": 478,
+                        "name": "9a",
+                        "longName": "9a",
+                        "displayname": "9a",
+                        "alternatename": "",
+                        "canViewTimetable": true,
+                        "roomCapacity": 0
+                    }
+                }
+            ],
+            "teachers": [
+                {
+                    "type": 2,
+                    "id": 52,
+                    "orgId": 0,
+                    "missing": false,
+                    "state": "REGULAR",
+                    "element": {
+                        "type": 2,
+                        "id": 52,
+                        "name": "Krc",
+                        "canViewTimetable": true,
+                        "externKey": "96551c75-c7da-46ca-a49f-2e59f66e3419",
+                        "roomCapacity": 0
+                    }
+                }
+            ],
+            "subjects": [
+                {
+                    "type": 3,
+                    "id": 40,
+                    "orgId": 0,
+                    "missing": false,
+                    "state": "REGULAR",
+                    "element": {
+                        "type": 3,
+                        "id": 40,
+                        "name": "Ena",
+                        "longName": "Englisch A",
+                        "displayname": "Ena",
+                        "alternatename": "",
+                        "backColor": "#00ffff",
+                        "canViewTimetable": false,
+                        "roomCapacity": 0
+                    }
+                }
+            ],
+            "rooms": [
+                {
+                    "type": 4,
+                    "id": 21,
+                    "orgId": 0,
+                    "missing": false,
+                    "state": "REGULAR",
+                    "element": {
+                        "type": 4,
+                        "id": 21,
+                        "name": "304",
+                        "longName": "GE/Eth/PB",
+                        "displayname": "304",
+                        "alternatename": "",
+                        "canViewTimetable": false,
+                        "roomCapacity": 32
+                    }
+                }
+            ],
+            "students": []
+        },
+        {
+            "id": 1672019,
+            "lessonId": 42045,
+            "lessonNumber": 85900,
+            "lessonCode": "LESSON",
+            "lessonText": "",
+            "periodText": "",
+            "hasPeriodText": false,
+            "periodInfo": "",
+            "periodAttachments": [],
+            "substText": "",
+            "date": 20240321,
+            "startTime": 800,
+            "endTime": 845,
+            "elements": [
+                {
+                    "type": 1,
+                    "id": 478,
+                    "orgId": 0,
+                    "missing": false,
+                    "state": "REGULAR"
+                },
+                {
+                    "type": 1,
+                    "id": 483,
+                    "orgId": 0,
+                    "missing": false,
+                    "state": "REGULAR"
+                },
+                {
+                    "type": 1,
+                    "id": 488,
+                    "orgId": 0,
+                    "missing": false,
+                    "state": "REGULAR"
+                },
+                {
+                    "type": 1,
+                    "id": 493,
+                    "orgId": 0,
+                    "missing": false,
+                    "state": "REGULAR"
+                },
+                {
+                    "type": 2,
+                    "id": 140,
+                    "orgId": 0,
+                    "missing": false,
+                    "state": "REGULAR"
+                },
+                {
+                    "type": 3,
+                    "id": 195,
+                    "orgId": 0,
+                    "missing": false,
+                    "state": "REGULAR"
+                },
+                {
+                    "type": 4,
+                    "id": 76,
+                    "orgId": 28,
+                    "missing": false,
+                    "state": "SUBSTITUTED"
+                }
+            ],
+            "studentGroup": "WMa_9a9b9c9d_Dü",
+            "hasInfo": false,
+            "code": 0,
+            "cellState": "ROOMSUBSTITUTION",
+            "priority": 3,
+            "is": {
+                "roomSubstitution": true,
+                "event": false
+            },
+            "roomCapacity": 0,
+            "studentCount": 0,
+            "classes": [
+                {
+                    "type": 1,
+                    "id": 478,
+                    "orgId": 0,
+                    "missing": false,
+                    "state": "REGULAR",
+                    "element": {
+                        "type": 1,
+                        "id": 478,
+                        "name": "9a",
+                        "longName": "9a",
+                        "displayname": "9a",
+                        "alternatename": "",
+                        "canViewTimetable": true,
+                        "roomCapacity": 0
+                    }
+                },
+                {
+                    "type": 1,
+                    "id": 483,
+                    "orgId": 0,
+                    "missing": false,
+                    "state": "REGULAR",
+                    "element": {
+                        "type": 1,
+                        "id": 483,
+                        "name": "9b",
+                        "longName": "9b",
+                        "displayname": "9b",
+                        "alternatename": "",
+                        "canViewTimetable": false,
+                        "roomCapacity": 0
+                    }
+                },
+                {
+                    "type": 1,
+                    "id": 488,
+                    "orgId": 0,
+                    "missing": false,
+                    "state": "REGULAR",
+                    "element": {
+                        "type": 1,
+                        "id": 488,
+                        "name": "9c",
+                        "longName": "9c",
+                        "displayname": "9c",
+                        "alternatename": "",
+                        "canViewTimetable": false,
+                        "roomCapacity": 0
+                    }
+                },
+                {
+                    "type": 1,
+                    "id": 493,
+                    "orgId": 0,
+                    "missing": false,
+                    "state": "REGULAR",
+                    "element": {
+                        "type": 1,
+                        "id": 493,
+                        "name": "9d",
+                        "longName": "9d",
+                        "displayname": "9d",
+                        "alternatename": "",
+                        "canViewTimetable": false,
+                        "roomCapacity": 0
+                    }
+                }
+            ],
+            "teachers": [
+                {
+                    "type": 2,
+                    "id": 140,
+                    "orgId": 0,
+                    "missing": false,
+                    "state": "REGULAR",
+                    "element": {
+                        "type": 2,
+                        "id": 140,
+                        "name": "Hsg",
+                        "canViewTimetable": true,
+                        "externKey": "65c878c4-a692-4973-b833-86acdea4f15f",
+                        "roomCapacity": 0
+                    }
+                }
+            ],
+            "subjects": [
+                {
+                    "type": 3,
+                    "id": 195,
+                    "orgId": 0,
+                    "missing": false,
+                    "state": "REGULAR",
+                    "element": {
+                        "type": 3,
+                        "id": 195,
+                        "name": "WMa",
+                        "longName": "WPF Mathematik",
+                        "displayname": "WMa",
+                        "alternatename": "",
+                        "foreColor": "#ffffff",
+                        "backColor": "#808000",
+                        "canViewTimetable": false,
+                        "roomCapacity": 0
+                    }
+                }
+            ],
+            "rooms": [
+                {
+                    "type": 4,
+                    "id": 76,
+                    "orgId": 28,
+                    "missing": false,
+                    "state": "SUBSTITUTED",
+                    "element": {
+                        "type": 4,
+                        "id": 76,
+                        "name": "115",
+                        "longName": "115",
+                        "displayname": "115",
+                        "alternatename": "",
+                        "canViewTimetable": false,
+                        "roomCapacity": 32
+                    }
+                }
+            ],
+            "students": []
+        },
+        {
+            "id": 1672024,
+            "lessonId": 42045,
+            "lessonNumber": 85900,
+            "lessonCode": "LESSON",
+            "lessonText": "",
+            "periodText": "",
+            "hasPeriodText": false,
+            "periodInfo": "",
+            "periodAttachments": [],
+            "substText": "",
+            "date": 20240321,
+            "startTime": 845,
+            "endTime": 930,
+            "elements": [
+                {
+                    "type": 1,
+                    "id": 478,
+                    "orgId": 0,
+                    "missing": false,
+                    "state": "REGULAR"
+                },
+                {
+                    "type": 1,
+                    "id": 483,
+                    "orgId": 0,
+                    "missing": false,
+                    "state": "REGULAR"
+                },
+                {
+                    "type": 1,
+                    "id": 488,
+                    "orgId": 0,
+                    "missing": false,
+                    "state": "REGULAR"
+                },
+                {
+                    "type": 1,
+                    "id": 493,
+                    "orgId": 0,
+                    "missing": false,
+                    "state": "REGULAR"
+                },
+                {
+                    "type": 2,
+                    "id": 140,
+                    "orgId": 0,
+                    "missing": false,
+                    "state": "REGULAR"
+                },
+                {
+                    "type": 3,
+                    "id": 195,
+                    "orgId": 0,
+                    "missing": false,
+                    "state": "REGULAR"
+                },
+                {
+                    "type": 4,
+                    "id": 76,
+                    "orgId": 28,
+                    "missing": false,
+                    "state": "SUBSTITUTED"
+                }
+            ],
+            "studentGroup": "WMa_9a9b9c9d_Dü",
+            "hasInfo": false,
+            "code": 0,
+            "cellState": "ROOMSUBSTITUTION",
+            "priority": 3,
+            "is": {
+                "roomSubstitution": true,
+                "event": false
+            },
+            "roomCapacity": 0,
+            "studentCount": 0,
+            "classes": [
+                {
+                    "type": 1,
+                    "id": 478,
+                    "orgId": 0,
+                    "missing": false,
+                    "state": "REGULAR",
+                    "element": {
+                        "type": 1,
+                        "id": 478,
+                        "name": "9a",
+                        "longName": "9a",
+                        "displayname": "9a",
+                        "alternatename": "",
+                        "canViewTimetable": true,
+                        "roomCapacity": 0
+                    }
+                },
+                {
+                    "type": 1,
+                    "id": 483,
+                    "orgId": 0,
+                    "missing": false,
+                    "state": "REGULAR",
+                    "element": {
+                        "type": 1,
+                        "id": 483,
+                        "name": "9b",
+                        "longName": "9b",
+                        "displayname": "9b",
+                        "alternatename": "",
+                        "canViewTimetable": false,
+                        "roomCapacity": 0
+                    }
+                },
+                {
+                    "type": 1,
+                    "id": 488,
+                    "orgId": 0,
+                    "missing": false,
+                    "state": "REGULAR",
+                    "element": {
+                        "type": 1,
+                        "id": 488,
+                        "name": "9c",
+                        "longName": "9c",
+                        "displayname": "9c",
+                        "alternatename": "",
+                        "canViewTimetable": false,
+                        "roomCapacity": 0
+                    }
+                },
+                {
+                    "type": 1,
+                    "id": 493,
+                    "orgId": 0,
+                    "missing": false,
+                    "state": "REGULAR",
+                    "element": {
+                        "type": 1,
+                        "id": 493,
+                        "name": "9d",
+                        "longName": "9d",
+                        "displayname": "9d",
+                        "alternatename": "",
+                        "canViewTimetable": false,
+                        "roomCapacity": 0
+                    }
+                }
+            ],
+            "teachers": [
+                {
+                    "type": 2,
+                    "id": 140,
+                    "orgId": 0,
+                    "missing": false,
+                    "state": "REGULAR",
+                    "element": {
+                        "type": 2,
+                        "id": 140,
+                        "name": "Hsg",
+                        "canViewTimetable": true,
+                        "externKey": "65c878c4-a692-4973-b833-86acdea4f15f",
+                        "roomCapacity": 0
+                    }
+                }
+            ],
+            "subjects": [
+                {
+                    "type": 3,
+                    "id": 195,
+                    "orgId": 0,
+                    "missing": false,
+                    "state": "REGULAR",
+                    "element": {
+                        "type": 3,
+                        "id": 195,
+                        "name": "WMa",
+                        "longName": "WPF Mathematik",
+                        "displayname": "WMa",
+                        "alternatename": "",
+                        "foreColor": "#ffffff",
+                        "backColor": "#808000",
+                        "canViewTimetable": false,
+                        "roomCapacity": 0
+                    }
+                }
+            ],
+            "rooms": [
+                {
+                    "type": 4,
+                    "id": 76,
+                    "orgId": 28,
+                    "missing": false,
+                    "state": "SUBSTITUTED",
+                    "element": {
+                        "type": 4,
+                        "id": 76,
+                        "name": "115",
+                        "longName": "115",
+                        "displayname": "115",
+                        "alternatename": "",
+                        "canViewTimetable": false,
+                        "roomCapacity": 32
+                    }
+                }
+            ],
+            "students": []
+        }
+    ],
+    "20240322": [
+        {
+            "id": 1815282,
+            "lessonId": 43007,
+            "lessonNumber": 360800,
+            "lessonCode": "LESSON",
+            "lessonText": "",
+            "periodText": "",
+            "hasPeriodText": false,
+            "periodInfo": "",
+            "periodAttachments": [],
+            "substText": "",
+            "date": 20240322,
+            "startTime": 950,
+            "endTime": 1035,
+            "elements": [
+                {
+                    "type": 1,
+                    "id": 478,
+                    "orgId": 0,
+                    "missing": false,
+                    "state": "REGULAR"
+                },
+                {
+                    "type": 2,
+                    "id": 2,
+                    "orgId": 0,
+                    "missing": false,
+                    "state": "REGULAR"
+                },
+                {
+                    "type": 3,
+                    "id": 44,
+                    "orgId": 0,
+                    "missing": false,
+                    "state": "REGULAR"
+                },
+                {
+                    "type": 4,
+                    "id": 33,
+                    "orgId": 0,
+                    "missing": false,
+                    "state": "REGULAR"
+                }
+            ],
+            "studentGroup": "Fra_9a_Ber",
+            "hasInfo": false,
+            "code": 0,
+            "cellState": "STANDARD",
+            "priority": 5,
+            "is": {
+                "standard": true,
+                "event": false
+            },
+            "roomCapacity": 0,
+            "studentCount": 0,
+            "classes": [
+                {
+                    "type": 1,
+                    "id": 478,
+                    "orgId": 0,
+                    "missing": false,
+                    "state": "REGULAR",
+                    "element": {
+                        "type": 1,
+                        "id": 478,
+                        "name": "9a",
+                        "longName": "9a",
+                        "displayname": "9a",
+                        "alternatename": "",
+                        "canViewTimetable": true,
+                        "roomCapacity": 0
+                    }
+                }
+            ],
+            "teachers": [
+                {
+                    "type": 2,
+                    "id": 2,
+                    "orgId": 0,
+                    "missing": false,
+                    "state": "REGULAR",
+                    "element": {
+                        "type": 2,
+                        "id": 2,
+                        "name": "Ber",
+                        "canViewTimetable": true,
+                        "externKey": "2e5b2934-8509-4515-9546-0aadfdc35bf7",
+                        "roomCapacity": 0
+                    }
+                }
+            ],
+            "subjects": [
+                {
+                    "type": 3,
+                    "id": 44,
+                    "orgId": 0,
+                    "missing": false,
+                    "state": "REGULAR",
+                    "element": {
+                        "type": 3,
+                        "id": 44,
+                        "name": "Fr",
+                        "longName": "Französisch",
+                        "displayname": "Fr",
+                        "alternatename": "",
+                        "backColor": "#00ffff",
+                        "canViewTimetable": false,
+                        "roomCapacity": 0
+                    }
+                }
+            ],
+            "rooms": [
+                {
+                    "type": 4,
+                    "id": 33,
+                    "orgId": 0,
+                    "missing": false,
+                    "state": "REGULAR",
+                    "element": {
+                        "type": 4,
+                        "id": 33,
+                        "name": "411",
+                        "longName": "Englisch/Französisch",
+                        "displayname": "411",
+                        "alternatename": "",
+                        "canViewTimetable": false,
+                        "roomCapacity": 32
+                    }
+                }
+            ],
+            "students": []
+        },
+        {
+            "id": 1815287,
+            "lessonId": 43007,
+            "lessonNumber": 360800,
+            "lessonCode": "LESSON",
+            "lessonText": "",
+            "periodText": "",
+            "hasPeriodText": false,
+            "periodInfo": "",
+            "periodAttachments": [],
+            "substText": "",
+            "date": 20240322,
+            "startTime": 1035,
+            "endTime": 1120,
+            "elements": [
+                {
+                    "type": 1,
+                    "id": 478,
+                    "orgId": 0,
+                    "missing": false,
+                    "state": "REGULAR"
+                },
+                {
+                    "type": 2,
+                    "id": 2,
+                    "orgId": 0,
+                    "missing": false,
+                    "state": "REGULAR"
+                },
+                {
+                    "type": 3,
+                    "id": 44,
+                    "orgId": 0,
+                    "missing": false,
+                    "state": "REGULAR"
+                },
+                {
+                    "type": 4,
+                    "id": 33,
+                    "orgId": 0,
+                    "missing": false,
+                    "state": "REGULAR"
+                }
+            ],
+            "studentGroup": "Fra_9a_Ber",
+            "hasInfo": false,
+            "code": 0,
+            "cellState": "STANDARD",
+            "priority": 5,
+            "is": {
+                "standard": true,
+                "event": false
+            },
+            "roomCapacity": 0,
+            "studentCount": 0,
+            "classes": [
+                {
+                    "type": 1,
+                    "id": 478,
+                    "orgId": 0,
+                    "missing": false,
+                    "state": "REGULAR",
+                    "element": {
+                        "type": 1,
+                        "id": 478,
+                        "name": "9a",
+                        "longName": "9a",
+                        "displayname": "9a",
+                        "alternatename": "",
+                        "canViewTimetable": true,
+                        "roomCapacity": 0
+                    }
+                }
+            ],
+            "teachers": [
+                {
+                    "type": 2,
+                    "id": 2,
+                    "orgId": 0,
+                    "missing": false,
+                    "state": "REGULAR",
+                    "element": {
+                        "type": 2,
+                        "id": 2,
+                        "name": "Ber",
+                        "canViewTimetable": true,
+                        "externKey": "2e5b2934-8509-4515-9546-0aadfdc35bf7",
+                        "roomCapacity": 0
+                    }
+                }
+            ],
+            "subjects": [
+                {
+                    "type": 3,
+                    "id": 44,
+                    "orgId": 0,
+                    "missing": false,
+                    "state": "REGULAR",
+                    "element": {
+                        "type": 3,
+                        "id": 44,
+                        "name": "Fr",
+                        "longName": "Französisch",
+                        "displayname": "Fr",
+                        "alternatename": "",
+                        "backColor": "#00ffff",
+                        "canViewTimetable": false,
+                        "roomCapacity": 0
+                    }
+                }
+            ],
+            "rooms": [
+                {
+                    "type": 4,
+                    "id": 33,
+                    "orgId": 0,
+                    "missing": false,
+                    "state": "REGULAR",
+                    "element": {
+                        "type": 4,
+                        "id": 33,
+                        "name": "411",
+                        "longName": "Englisch/Französisch",
+                        "displayname": "411",
+                        "alternatename": "",
+                        "canViewTimetable": false,
+                        "roomCapacity": 32
+                    }
+                }
+            ],
+            "students": []
+        },
+        {
+            "id": 2024399,
+            "lessonId": 40500,
+            "lessonNumber": 171400,
+            "lessonCode": "LESSON",
+            "lessonText": "",
+            "periodText": "Aufgaben",
+            "hasPeriodText": true,
+            "periodInfo": "",
+            "periodAttachments": [],
+            "substText": "Aufgaben",
+            "date": 20240322,
+            "startTime": 1345,
+            "endTime": 1430,
+            "elements": [
+                {
+                    "type": 1,
+                    "id": 478,
+                    "orgId": 0,
+                    "missing": false,
+                    "state": "REGULAR"
+                },
+                {
+                    "type": 2,
+                    "id": 0,
+                    "orgId": 327,
+                    "missing": false,
+                    "state": "ABSENT"
+                },
+                {
+                    "type": 3,
+                    "id": 50,
+                    "orgId": 0,
+                    "missing": false,
+                    "state": "REGULAR"
+                },
+                {
+                    "type": 4,
+                    "id": 52,
+                    "orgId": 19,
+                    "missing": false,
+                    "state": "SUBSTITUTED"
+                }
+            ],
+            "studentGroup": "Ge_9a_Mhl",
+            "hasInfo": true,
+            "code": 0,
+            "cellState": "SUBSTITUTION",
+            "priority": 3,
+            "is": {
+                "substitution": true,
+                "event": false
+            },
+            "roomCapacity": 0,
+            "studentCount": 0,
+            "classes": [
+                {
+                    "type": 1,
+                    "id": 478,
+                    "orgId": 0,
+                    "missing": false,
+                    "state": "REGULAR",
+                    "element": {
+                        "type": 1,
+                        "id": 478,
+                        "name": "9a",
+                        "longName": "9a",
+                        "displayname": "9a",
+                        "alternatename": "",
+                        "canViewTimetable": true,
+                        "roomCapacity": 0
+                    }
+                }
+            ],
+            "teachers": [
+                {
+                    "type": 2,
+                    "id": 0,
+                    "orgId": 327,
+                    "missing": false,
+                    "state": "ABSENT",
+                    "element": {
+                        "type": 2,
+                        "id": 0,
+                        "name": "---",
+                        "canViewTimetable": true,
+                        "externKey": "",
+                        "roomCapacity": 0
+                    }
+                }
+            ],
+            "subjects": [
+                {
+                    "type": 3,
+                    "id": 50,
+                    "orgId": 0,
+                    "missing": false,
+                    "state": "REGULAR",
+                    "element": {
+                        "type": 3,
+                        "id": 50,
+                        "name": "Ge",
+                        "longName": "Geschichte",
+                        "displayname": "Ge",
+                        "alternatename": "",
+                        "foreColor": "#ffffff",
+                        "backColor": "#008000",
+                        "canViewTimetable": false,
+                        "roomCapacity": 0
+                    }
+                }
+            ],
+            "rooms": [
+                {
+                    "type": 4,
+                    "id": 52,
+                    "orgId": 19,
+                    "missing": false,
+                    "state": "SUBSTITUTED",
+                    "element": {
+                        "type": 4,
+                        "id": 52,
+                        "name": "zu Hause",
+                        "longName": "zu Hause",
+                        "displayname": "zu Hause",
+                        "alternatename": "",
+                        "canViewTimetable": false,
+                        "roomCapacity": 0
+                    }
+                }
+            ],
+            "students": []
+        },
+        {
+            "id": 2024404,
+            "lessonId": 40500,
+            "lessonNumber": 171400,
+            "lessonCode": "LESSON",
+            "lessonText": "",
+            "periodText": "Aufgaben",
+            "hasPeriodText": true,
+            "periodInfo": "",
+            "periodAttachments": [],
+            "substText": "Aufgaben",
+            "date": 20240322,
+            "startTime": 1430,
+            "endTime": 1515,
+            "elements": [
+                {
+                    "type": 1,
+                    "id": 478,
+                    "orgId": 0,
+                    "missing": false,
+                    "state": "REGULAR"
+                },
+                {
+                    "type": 2,
+                    "id": 0,
+                    "orgId": 327,
+                    "missing": false,
+                    "state": "ABSENT"
+                },
+                {
+                    "type": 3,
+                    "id": 50,
+                    "orgId": 0,
+                    "missing": false,
+                    "state": "REGULAR"
+                },
+                {
+                    "type": 4,
+                    "id": 52,
+                    "orgId": 19,
+                    "missing": false,
+                    "state": "SUBSTITUTED"
+                }
+            ],
+            "studentGroup": "Ge_9a_Mhl",
+            "hasInfo": true,
+            "code": 0,
+            "cellState": "SUBSTITUTION",
+            "priority": 3,
+            "is": {
+                "substitution": true,
+                "event": false
+            },
+            "roomCapacity": 0,
+            "studentCount": 0,
+            "classes": [
+                {
+                    "type": 1,
+                    "id": 478,
+                    "orgId": 0,
+                    "missing": false,
+                    "state": "REGULAR",
+                    "element": {
+                        "type": 1,
+                        "id": 478,
+                        "name": "9a",
+                        "longName": "9a",
+                        "displayname": "9a",
+                        "alternatename": "",
+                        "canViewTimetable": true,
+                        "roomCapacity": 0
+                    }
+                }
+            ],
+            "teachers": [
+                {
+                    "type": 2,
+                    "id": 0,
+                    "orgId": 327,
+                    "missing": false,
+                    "state": "ABSENT",
+                    "element": {
+                        "type": 2,
+                        "id": 0,
+                        "name": "---",
+                        "canViewTimetable": true,
+                        "externKey": "",
+                        "roomCapacity": 0
+                    }
+                }
+            ],
+            "subjects": [
+                {
+                    "type": 3,
+                    "id": 50,
+                    "orgId": 0,
+                    "missing": false,
+                    "state": "REGULAR",
+                    "element": {
+                        "type": 3,
+                        "id": 50,
+                        "name": "Ge",
+                        "longName": "Geschichte",
+                        "displayname": "Ge",
+                        "alternatename": "",
+                        "foreColor": "#ffffff",
+                        "backColor": "#008000",
+                        "canViewTimetable": false,
+                        "roomCapacity": 0
+                    }
+                }
+            ],
+            "rooms": [
+                {
+                    "type": 4,
+                    "id": 52,
+                    "orgId": 19,
+                    "missing": false,
+                    "state": "SUBSTITUTED",
+                    "element": {
+                        "type": 4,
+                        "id": 52,
+                        "name": "zu Hause",
+                        "longName": "zu Hause",
+                        "displayname": "zu Hause",
+                        "alternatename": "",
+                        "canViewTimetable": false,
+                        "roomCapacity": 0
+                    }
+                }
+            ],
+            "students": []
+        },
+        {
+            "id": 1946650,
+            "lessonId": 40715,
+            "lessonNumber": 159000,
+            "lessonCode": "LESSON",
+            "lessonText": "",
+            "periodText": "",
+            "hasPeriodText": false,
+            "periodInfo": "",
+            "periodAttachments": [],
+            "substText": "",
+            "date": 20240322,
+            "startTime": 800,
+            "endTime": 845,
+            "elements": [
+                {
+                    "type": 1,
+                    "id": 478,
+                    "orgId": 0,
+                    "missing": false,
+                    "state": "REGULAR"
+                },
+                {
+                    "type": 2,
+                    "id": 14,
+                    "orgId": 0,
+                    "missing": false,
+                    "state": "REGULAR"
+                },
+                {
+                    "type": 3,
+                    "id": 66,
+                    "orgId": 0,
+                    "missing": false,
+                    "state": "REGULAR"
+                },
+                {
+                    "type": 4,
+                    "id": 19,
+                    "orgId": 0,
+                    "missing": false,
+                    "state": "REGULAR"
+                }
+            ],
+            "studentGroup": "Ma_9a_Dü",
+            "hasInfo": false,
+            "code": 0,
+            "cellState": "STANDARD",
+            "priority": 5,
+            "is": {
+                "standard": true,
+                "event": false
+            },
+            "roomCapacity": 0,
+            "studentCount": 0,
+            "classes": [
+                {
+                    "type": 1,
+                    "id": 478,
+                    "orgId": 0,
+                    "missing": false,
+                    "state": "REGULAR",
+                    "element": {
+                        "type": 1,
+                        "id": 478,
+                        "name": "9a",
+                        "longName": "9a",
+                        "displayname": "9a",
+                        "alternatename": "",
+                        "canViewTimetable": true,
+                        "roomCapacity": 0
+                    }
+                }
+            ],
+            "teachers": [
+                {
+                    "type": 2,
+                    "id": 14,
+                    "orgId": 0,
+                    "missing": false,
+                    "state": "REGULAR",
+                    "element": {
+                        "type": 2,
+                        "id": 14,
+                        "name": "Dü",
+                        "canViewTimetable": true,
+                        "externKey": "d090a908-8e69-4e9d-8dd6-83c55f50250c",
+                        "roomCapacity": 0
+                    }
+                }
+            ],
+            "subjects": [
+                {
+                    "type": 3,
+                    "id": 66,
+                    "orgId": 0,
+                    "missing": false,
+                    "state": "REGULAR",
+                    "element": {
+                        "type": 3,
+                        "id": 66,
+                        "name": "Ma",
+                        "longName": "Mathematik",
+                        "displayname": "Ma",
+                        "alternatename": "",
+                        "foreColor": "#ffffff",
+                        "backColor": "#16543f",
+                        "canViewTimetable": false,
+                        "roomCapacity": 0
+                    }
+                }
+            ],
+            "rooms": [
+                {
+                    "type": 4,
+                    "id": 19,
+                    "orgId": 0,
+                    "missing": false,
+                    "state": "REGULAR",
+                    "element": {
+                        "type": 4,
+                        "id": 19,
+                        "name": "217",
+                        "longName": "Mathematik",
+                        "displayname": "217",
+                        "alternatename": "",
+                        "canViewTimetable": false,
+                        "roomCapacity": 0
+                    }
+                }
+            ],
+            "students": []
+        },
+        {
+            "id": 1946655,
+            "lessonId": 40715,
+            "lessonNumber": 159000,
+            "lessonCode": "LESSON",
+            "lessonText": "",
+            "periodText": "",
+            "hasPeriodText": false,
+            "periodInfo": "",
+            "periodAttachments": [],
+            "substText": "",
+            "date": 20240322,
+            "startTime": 845,
+            "endTime": 930,
+            "elements": [
+                {
+                    "type": 1,
+                    "id": 478,
+                    "orgId": 0,
+                    "missing": false,
+                    "state": "REGULAR"
+                },
+                {
+                    "type": 2,
+                    "id": 14,
+                    "orgId": 0,
+                    "missing": false,
+                    "state": "REGULAR"
+                },
+                {
+                    "type": 3,
+                    "id": 66,
+                    "orgId": 0,
+                    "missing": false,
+                    "state": "REGULAR"
+                },
+                {
+                    "type": 4,
+                    "id": 19,
+                    "orgId": 0,
+                    "missing": false,
+                    "state": "REGULAR"
+                }
+            ],
+            "studentGroup": "Ma_9a_Dü",
+            "hasInfo": false,
+            "code": 0,
+            "cellState": "STANDARD",
+            "priority": 5,
+            "is": {
+                "standard": true,
+                "event": false
+            },
+            "roomCapacity": 0,
+            "studentCount": 0,
+            "classes": [
+                {
+                    "type": 1,
+                    "id": 478,
+                    "orgId": 0,
+                    "missing": false,
+                    "state": "REGULAR",
+                    "element": {
+                        "type": 1,
+                        "id": 478,
+                        "name": "9a",
+                        "longName": "9a",
+                        "displayname": "9a",
+                        "alternatename": "",
+                        "canViewTimetable": true,
+                        "roomCapacity": 0
+                    }
+                }
+            ],
+            "teachers": [
+                {
+                    "type": 2,
+                    "id": 14,
+                    "orgId": 0,
+                    "missing": false,
+                    "state": "REGULAR",
+                    "element": {
+                        "type": 2,
+                        "id": 14,
+                        "name": "Dü",
+                        "canViewTimetable": true,
+                        "externKey": "d090a908-8e69-4e9d-8dd6-83c55f50250c",
+                        "roomCapacity": 0
+                    }
+                }
+            ],
+            "subjects": [
+                {
+                    "type": 3,
+                    "id": 66,
+                    "orgId": 0,
+                    "missing": false,
+                    "state": "REGULAR",
+                    "element": {
+                        "type": 3,
+                        "id": 66,
+                        "name": "Ma",
+                        "longName": "Mathematik",
+                        "displayname": "Ma",
+                        "alternatename": "",
+                        "foreColor": "#ffffff",
+                        "backColor": "#16543f",
+                        "canViewTimetable": false,
+                        "roomCapacity": 0
+                    }
+                }
+            ],
+            "rooms": [
+                {
+                    "type": 4,
+                    "id": 19,
+                    "orgId": 0,
+                    "missing": false,
+                    "state": "REGULAR",
+                    "element": {
+                        "type": 4,
+                        "id": 19,
+                        "name": "217",
+                        "longName": "Mathematik",
+                        "displayname": "217",
+                        "alternatename": "",
+                        "canViewTimetable": false,
+                        "roomCapacity": 0
+                    }
+                }
+            ],
+            "students": []
+        },
+        {
+            "id": 2005718,
+            "lessonId": 40845,
+            "lessonNumber": 166800,
+            "lessonCode": "LESSON",
+            "lessonText": "",
+            "periodText": "",
+            "hasPeriodText": false,
+            "periodInfo": "",
+            "periodAttachments": [],
+            "substText": "",
+            "date": 20240322,
+            "startTime": 1150,
+            "endTime": 1235,
+            "elements": [
+                {
+                    "type": 1,
+                    "id": 478,
+                    "orgId": 0,
+                    "missing": false,
+                    "state": "REGULAR"
+                },
+                {
+                    "type": 2,
+                    "id": 2,
+                    "orgId": 0,
+                    "missing": false,
+                    "state": "REGULAR"
+                },
+                {
+                    "type": 3,
+                    "id": 68,
+                    "orgId": 0,
+                    "missing": false,
+                    "state": "REGULAR"
+                },
+                {
+                    "type": 4,
+                    "id": 75,
+                    "orgId": 0,
+                    "missing": false,
+                    "state": "REGULAR"
+                }
+            ],
+            "studentGroup": "Mu_9a_Ber",
+            "hasInfo": false,
+            "code": 0,
+            "cellState": "STANDARD",
+            "priority": 5,
+            "is": {
+                "standard": true,
+                "event": false
+            },
+            "roomCapacity": 0,
+            "studentCount": 0,
+            "classes": [
+                {
+                    "type": 1,
+                    "id": 478,
+                    "orgId": 0,
+                    "missing": false,
+                    "state": "REGULAR",
+                    "element": {
+                        "type": 1,
+                        "id": 478,
+                        "name": "9a",
+                        "longName": "9a",
+                        "displayname": "9a",
+                        "alternatename": "",
+                        "canViewTimetable": true,
+                        "roomCapacity": 0
+                    }
+                }
+            ],
+            "teachers": [
+                {
+                    "type": 2,
+                    "id": 2,
+                    "orgId": 0,
+                    "missing": false,
+                    "state": "REGULAR",
+                    "element": {
+                        "type": 2,
+                        "id": 2,
+                        "name": "Ber",
+                        "canViewTimetable": true,
+                        "externKey": "2e5b2934-8509-4515-9546-0aadfdc35bf7",
+                        "roomCapacity": 0
+                    }
+                }
+            ],
+            "subjects": [
+                {
+                    "type": 3,
+                    "id": 68,
+                    "orgId": 0,
+                    "missing": false,
+                    "state": "REGULAR",
+                    "element": {
+                        "type": 3,
+                        "id": 68,
+                        "name": "Mu",
+                        "longName": "Musik",
+                        "displayname": "Mu",
+                        "alternatename": "",
+                        "foreColor": "#ffffff",
+                        "backColor": "#0080ff",
+                        "canViewTimetable": false,
+                        "roomCapacity": 0
+                    }
+                }
+            ],
+            "rooms": [
+                {
+                    "type": 4,
+                    "id": 75,
+                    "orgId": 0,
+                    "missing": false,
+                    "state": "REGULAR",
+                    "element": {
+                        "type": 4,
+                        "id": 75,
+                        "name": "420",
+                        "longName": "Musik",
+                        "displayname": "420",
+                        "alternatename": "",
+                        "canViewTimetable": false,
+                        "roomCapacity": 0
+                    }
+                }
+            ],
+            "students": []
+        },
+        {
+            "id": 2005723,
+            "lessonId": 40845,
+            "lessonNumber": 166800,
+            "lessonCode": "LESSON",
+            "lessonText": "",
+            "periodText": "",
+            "hasPeriodText": false,
+            "periodInfo": "",
+            "periodAttachments": [],
+            "substText": "",
+            "date": 20240322,
+            "startTime": 1235,
+            "endTime": 1320,
+            "elements": [
+                {
+                    "type": 1,
+                    "id": 478,
+                    "orgId": 0,
+                    "missing": false,
+                    "state": "REGULAR"
+                },
+                {
+                    "type": 2,
+                    "id": 2,
+                    "orgId": 0,
+                    "missing": false,
+                    "state": "REGULAR"
+                },
+                {
+                    "type": 3,
+                    "id": 68,
+                    "orgId": 0,
+                    "missing": false,
+                    "state": "REGULAR"
+                },
+                {
+                    "type": 4,
+                    "id": 75,
+                    "orgId": 0,
+                    "missing": false,
+                    "state": "REGULAR"
+                }
+            ],
+            "studentGroup": "Mu_9a_Ber",
+            "hasInfo": false,
+            "code": 0,
+            "cellState": "STANDARD",
+            "priority": 5,
+            "is": {
+                "standard": true,
+                "event": false
+            },
+            "roomCapacity": 0,
+            "studentCount": 0,
+            "classes": [
+                {
+                    "type": 1,
+                    "id": 478,
+                    "orgId": 0,
+                    "missing": false,
+                    "state": "REGULAR",
+                    "element": {
+                        "type": 1,
+                        "id": 478,
+                        "name": "9a",
+                        "longName": "9a",
+                        "displayname": "9a",
+                        "alternatename": "",
+                        "canViewTimetable": true,
+                        "roomCapacity": 0
+                    }
+                }
+            ],
+            "teachers": [
+                {
+                    "type": 2,
+                    "id": 2,
+                    "orgId": 0,
+                    "missing": false,
+                    "state": "REGULAR",
+                    "element": {
+                        "type": 2,
+                        "id": 2,
+                        "name": "Ber",
+                        "canViewTimetable": true,
+                        "externKey": "2e5b2934-8509-4515-9546-0aadfdc35bf7",
+                        "roomCapacity": 0
+                    }
+                }
+            ],
+            "subjects": [
+                {
+                    "type": 3,
+                    "id": 68,
+                    "orgId": 0,
+                    "missing": false,
+                    "state": "REGULAR",
+                    "element": {
+                        "type": 3,
+                        "id": 68,
+                        "name": "Mu",
+                        "longName": "Musik",
+                        "displayname": "Mu",
+                        "alternatename": "",
+                        "foreColor": "#ffffff",
+                        "backColor": "#0080ff",
+                        "canViewTimetable": false,
+                        "roomCapacity": 0
+                    }
+                }
+            ],
+            "rooms": [
+                {
+                    "type": 4,
+                    "id": 75,
+                    "orgId": 0,
+                    "missing": false,
+                    "state": "REGULAR",
+                    "element": {
+                        "type": 4,
+                        "id": 75,
+                        "name": "420",
+                        "longName": "Musik",
+                        "displayname": "420",
+                        "alternatename": "",
+                        "canViewTimetable": false,
+                        "roomCapacity": 0
+                    }
+                }
+            ],
+            "students": []
+        }
+    ]
+}
