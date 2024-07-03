@@ -128,3 +128,10 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+/save.js
+/test.json
+/test2.json
+/test3.json
+/py
+/.vscode
+/package-lock.json
